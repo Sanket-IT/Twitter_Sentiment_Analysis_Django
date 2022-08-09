@@ -1,0 +1,1836 @@
+,Tweet Text,Remove user,Remove url,Remove RT,Remove pun,Remove stop
+0,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+1,"I have 3 old pairs of stinky and dirty shoes up for sale
+50$ - converse
+50$ - Adidas
+20$ - pimkie
+Wouldn't you love… https://t.co/HDxoe4zQlu","I have 3 old pairs of stinky and dirty shoes up for sale
+50$ - converse
+50$ - Adidas
+20$ - pimkie
+Wouldn't you love… https://t.co/HDxoe4zQlu","I have 3 old pairs of stinky and dirty shoes up for sale
+50$ - converse
+50$ - Adidas
+20$ - pimkie
+Wouldn't you love… ","I have  old pairs of stinky and dirty shoes up for sale
+$ - converse
+$ - Adidas
+$ - pimkie
+Wouldn't you love… ","I have  old pairs of stinky and dirty shoes up for sale
+  converse
+  Adidas
+  pimkie
+Wouldnt you love… ","['I', 'old', 'pairs', 'stinky', 'dirty', 'shoes', 'sale', 'converse', 'Adidas', 'pimkie', 'Wouldnt', 'love…']"
+2,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+3,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+4,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+5,RT @De_brightk: You for know say no bro fi dress pass the goat 🐐 #LavaFeels ..the one who hyped Adidas for Ghana here arhhh what are u talk…,RT  You for know say no bro fi dress pass the goat 🐐 #LavaFeels ..the one who hyped Adidas for Ghana here arhhh what are u talk…,RT  You for know say no bro fi dress pass the goat 🐐 #LavaFeels ..the one who hyped Adidas for Ghana here arhhh what are u talk…,  You for know say no bro fi dress pass the goat 🐐 #LavaFeels ..the one who hyped Adidas for Ghana here arhhh what are u talk…,  You for know say no bro fi dress pass the goat 🐐 LavaFeels the one who hyped Adidas for Ghana here arhhh what are u talk…,"['You', 'know', 'say', 'bro', 'fi', 'dress', 'pass', 'goat', '🐐', 'LavaFeels', 'one', 'hyped', 'Adidas', 'Ghana', 'arhhh', 'u', 'talk…']"
+6,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+7,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+8,"RT @chicletsclips: CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES 
+
+Want to win an Adidas jersey from which ever team you want It’s simple follow the steps below and you’re ent…","['CONES', 'Want', 'win', 'Adidas', 'jersey', 'ever', 'team', 'want', 'It’s', 'simple', 'follow', 'steps', 'you’re', 'ent…']"
+9,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+10,@CelticFC @Oedouard22 Announce Adidas strips please 😆,  Announce Adidas strips please 😆,  Announce Adidas strips please 😆,  Announce Adidas strips please 😆,  Announce Adidas strips please 😆,"['Announce', 'Adidas', 'strips', 'please', '😆']"
+11,#Adidas #Yeezy #YeezyBoost: Adidas Men's Yeezy Boost 750 Triple Black Kanye West Sneakers BB1839 - Size 12… https://t.co/dRMJMpzb1I,#Adidas #Yeezy #YeezyBoost: Adidas Men's Yeezy Boost 750 Triple Black Kanye West Sneakers BB1839 - Size 12… https://t.co/dRMJMpzb1I,#Adidas #Yeezy #YeezyBoost: Adidas Men's Yeezy Boost 750 Triple Black Kanye West Sneakers BB1839 - Size 12… ,#Adidas #Yeezy #YeezyBoost: Adidas Men's Yeezy Boost  riple Black Kanye West Sneakers BB - Size … ,Adidas Yeezy YeezyBoost Adidas Mens Yeezy Boost  riple Black Kanye West Sneakers BB  Size … ,"['Adidas', 'Yeezy', 'YeezyBoost', 'Adidas', 'Mens', 'Yeezy', 'Boost', 'riple', 'Black', 'Kanye', 'West', 'Sneakers', 'BB', 'Size', '…']"
+12,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+13,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+14,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+15,@TerryFoxCanada @adidas Hey @pepsi take them for example! More shoes are made. All I want is just one #bottle of… https://t.co/nwtexGjKwl,  Hey  take them for example! More shoes are made. All I want is just one #bottle of… https://t.co/nwtexGjKwl,  Hey  take them for example! More shoes are made. All I want is just one #bottle of… ,  Hey  take them for example! More shoes are made. All I want is just one #bottle of… ,  Hey  take them for example More shoes are made All I want is just one bottle of… ,"['Hey', 'take', 'example', 'More', 'shoes', 'made', 'All', 'I', 'want', 'one', 'bottle', 'of…']"
+16,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+17,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+18,RT @FootballFactly: Remember this Adidas advert “Jose +10” from 2006?  https://t.co/EST8aI5Nyh,RT  Remember this Adidas advert “Jose +10” from 2006?  https://t.co/EST8aI5Nyh,RT  Remember this Adidas advert “Jose +10” from 2006?  ,  emember this Adidas advert “Jose +” from ?  ,  emember this Adidas advert “Jose ” from   ,"['emember', 'Adidas', 'advert', '“Jose', '”']"
+19,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+20,@Thelackadaisic3 Adidas is actually being nice to us 😭 Man City's kit looks like broken china plate 💀, Adidas is actually being nice to us 😭 Man City's kit looks like broken china plate 💀, Adidas is actually being nice to us 😭 Man City's kit looks like broken china plate 💀, Adidas is actually being nice to us 😭 Man City's kit looks like broken china plate 💀, Adidas is actually being nice to us 😭 Man Citys kit looks like broken china plate 💀,"['Adidas', 'actually', 'nice', 'us', '😭', 'Man', 'Citys', 'kit', 'looks', 'like', 'broken', 'china', 'plate', '💀']"
+21,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+22,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+23,"RT @SybilOhema: Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","RT  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","RT  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $, Nike tracksuits $ and Kappa tracksuits $#men…",  Winter is here gents Get your tracksuits and joggers Adidas joggers  Nike tracksuits  and Kappa tracksuits men…,"['Winter', 'gents', 'Get', 'tracksuits', 'joggers', 'Adidas', 'joggers', 'Nike', 'tracksuits', 'Kappa', 'tracksuits', 'men…']"
+24,"RT @chicletsclips: CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES 
+
+Want to win an Adidas jersey from which ever team you want It’s simple follow the steps below and you’re ent…","['CONES', 'Want', 'win', 'Adidas', 'jersey', 'ever', 'team', 'want', 'It’s', 'simple', 'follow', 'steps', 'you’re', 'ent…']"
+25,How I roll ✌️😎 @adidas #hometeam #3stripes https://t.co/5ZPpY6ObIc,How I roll ✌️😎  #hometeam #3stripes https://t.co/5ZPpY6ObIc,How I roll ✌️😎  #hometeam #3stripes ,How I roll ✌️😎  #hometeam #stripes ,How I roll ✌️😎  hometeam stripes ,"['How', 'I', 'roll', '✌️😎', 'hometeam', 'stripes']"
+26,"RT @chicletsclips: CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES 
+
+Want to win an Adidas jersey from which ever team you want It’s simple follow the steps below and you’re ent…","['CONES', 'Want', 'win', 'Adidas', 'jersey', 'ever', 'team', 'want', 'It’s', 'simple', 'follow', 'steps', 'you’re', 'ent…']"
+27,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+28,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+29,"RT @Stuart_PhotoAFC: Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","RT  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","RT  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…",  Can’t believe I’ve never posted this picture four of my favourite Arsenal players in one of my favourite kits What a…,"['Can’t', 'believe', 'I’ve', 'never', 'posted', 'picture', 'four', 'favourite', 'Arsenal', 'players', 'one', 'favourite', 'kits', 'What', 'a…']"
+30,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+31,"RT @chicletsclips: CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES 
+
+Want to win an Adidas jersey from which ever team you want It’s simple follow the steps below and you’re ent…","['CONES', 'Want', 'win', 'Adidas', 'jersey', 'ever', 'team', 'want', 'It’s', 'simple', 'follow', 'steps', 'you’re', 'ent…']"
+32,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+33,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+34,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+35,"RT @ShoeGuyOtis: INIKI 🤍🤍🤍🤍
+
+Adidas for the win https://t.co/T0RE1UdHJ6","RT  INIKI 🤍🤍🤍🤍
+
+Adidas for the win https://t.co/T0RE1UdHJ6","RT  INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","  INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","  INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","['INIKI', '\U0001f90d\U0001f90d\U0001f90d\U0001f90d', 'Adidas', 'win']"
+36,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+37,"All item is 💯Original Legit
+Ready Stock
+Ellesse Punto M&amp;L (RM120)
+Adidas Festival Bag (RM80)
+Superdry Pouch Bag (RM… https://t.co/4Fom9q64hv","All item is 💯Original Legit
+Ready Stock
+Ellesse Punto M&amp;L (RM120)
+Adidas Festival Bag (RM80)
+Superdry Pouch Bag (RM… https://t.co/4Fom9q64hv","All item is 💯Original Legit
+Ready Stock
+Ellesse Punto M&amp;L (RM120)
+Adidas Festival Bag (RM80)
+Superdry Pouch Bag (RM… ","All item is 💯Original Legit
+eady Stock
+Ellesse Punto M&amp;L (M)
+Adidas Festival Bag (M)
+Superdry Pouch Bag (M… ","All item is 💯Original Legit
+eady Stock
+Ellesse Punto MampL M
+Adidas Festival Bag M
+Superdry Pouch Bag M… ","['All', 'item', '💯Original', 'Legit', 'eady', 'Stock', 'Ellesse', 'Punto', 'MampL', 'M', 'Adidas', 'Festival', 'Bag', 'M', 'Superdry', 'Pouch', 'Bag', 'M…']"
+38,RT @FootballFactly: Remember this Adidas advert “Jose +10” from 2006?  https://t.co/EST8aI5Nyh,RT  Remember this Adidas advert “Jose +10” from 2006?  https://t.co/EST8aI5Nyh,RT  Remember this Adidas advert “Jose +10” from 2006?  ,  emember this Adidas advert “Jose +” from ?  ,  emember this Adidas advert “Jose ” from   ,"['emember', 'Adidas', 'advert', '“Jose', '”']"
+39,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+40,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+41,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+42,RT @iamkoshiek: Kanye owns 100% of Yeezy. Adidas produces &amp; distributes them. He gets royalties of 15% of the sales and it's closer to 10-1…,RT  Kanye owns 100% of Yeezy. Adidas produces &amp; distributes them. He gets royalties of 15% of the sales and it's closer to 10-1…,RT  Kanye owns 100% of Yeezy. Adidas produces &amp; distributes them. He gets royalties of 15% of the sales and it's closer to 10-1…,  Kanye owns % of Yeezy. Adidas produces &amp; distributes them. He gets royalties of % of the sales and it's closer to -…,  Kanye owns  of Yeezy Adidas produces amp distributes them He gets royalties of  of the sales and its closer to …,"['Kanye', 'owns', 'Yeezy', 'Adidas', 'produces', 'amp', 'distributes', 'He', 'gets', 'royalties', 'sales', 'closer', '…']"
+43,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+44,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+45,RT @okolizmaine: We got these authentic Nike &amp; Adidas slides for sale. Sizes 38-47. For men and women. And We can deliver anywhere within t…,RT  We got these authentic Nike &amp; Adidas slides for sale. Sizes 38-47. For men and women. And We can deliver anywhere within t…,RT  We got these authentic Nike &amp; Adidas slides for sale. Sizes 38-47. For men and women. And We can deliver anywhere within t…,  We got these authentic Nike &amp; Adidas slides for sale. Sizes -. For men and women. And We can deliver anywhere within t…,  We got these authentic Nike amp Adidas slides for sale Sizes  For men and women And We can deliver anywhere within t…,"['We', 'got', 'authentic', 'Nike', 'amp', 'Adidas', 'slides', 'sale', 'Sizes', 'For', 'men', 'women', 'And', 'We', 'deliver', 'anywhere', 'within', 't…']"
+46,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+47,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+48,"RT @mimekiSJH: #ส่องรองเท้าน้องโดยอง
+Adidas
+Black &amp; Silver Falcon
+
+100$
+
+#TREASURE #DOYOUNG https://t.co/uRgdOSnu0n","RT  #ส่องรองเท้าน้องโดยอง
+Adidas
+Black &amp; Silver Falcon
+
+100$
+
+#TREASURE #DOYOUNG https://t.co/uRgdOSnu0n","RT  #ส่องรองเท้าน้องโดยอง
+Adidas
+Black &amp; Silver Falcon
+
+100$
+
+#TREASURE #DOYOUNG ","  #ส่องรองเท้าน้องโดยอง
+Adidas
+Black &amp; Silver Falcon
+
+$
+
+#EASUE #DOYOUNG ","  ส่องรองเท้าน้องโดยอง
+Adidas
+Black amp Silver Falcon
+
+
+
+EASUE DOYOUNG ","['ส่องรองเท้าน้องโดยอง', 'Adidas', 'Black', 'amp', 'Silver', 'Falcon', 'EASUE', 'DOYOUNG']"
+49,RT @TerryFoxCanada: They sold out quickly but more will come. This was just the first step in the @adidas nine piece collection. Stay tuned…,RT  They sold out quickly but more will come. This was just the first step in the  nine piece collection. Stay tuned…,RT  They sold out quickly but more will come. This was just the first step in the  nine piece collection. Stay tuned…,  hey sold out quickly but more will come. his was just the first step in the  nine piece collection. Stay tuned…,  hey sold out quickly but more will come his was just the first step in the  nine piece collection Stay tuned…,"['hey', 'sold', 'quickly', 'come', 'first', 'step', 'nine', 'piece', 'collection', 'Stay', 'tuned…']"
+50,This adidas NMD_R1 arrives 6/1. Thoughts? https://t.co/hHuE0hyGyo,This adidas NMD_R1 arrives 6/1. Thoughts? https://t.co/hHuE0hyGyo,This adidas NMD_R1 arrives 6/1. Thoughts? ,his adidas NMD_ arrives /. houghts? ,his adidas NMD arrives  houghts ,"['adidas', 'NMD', 'arrives', 'houghts']"
+51,@adidas Please please please drop the Snowcone Adizero 8.0 football cleats again! 🙏🙏🙏 Would love to get my hands on… https://t.co/x9v6F6Je2D, Please please please drop the Snowcone Adizero 8.0 football cleats again! 🙏🙏🙏 Would love to get my hands on… https://t.co/x9v6F6Je2D, Please please please drop the Snowcone Adizero 8.0 football cleats again! 🙏🙏🙏 Would love to get my hands on… , Please please please drop the Snowcone Adizero . football cleats again! 🙏🙏🙏 Would love to get my hands on… , Please please please drop the Snowcone Adizero  football cleats again 🙏🙏🙏 Would love to get my hands on… ,"['Please', 'please', 'please', 'drop', 'Snowcone', 'Adizero', 'football', 'cleats', '🙏🙏🙏', 'Would', 'love', 'get', 'hands', 'on…']"
+52,"Yeezy 700 Analog now $250 on Farfetch, new accounts get 10% off with code welc10 https://t.co/SXu53AWBXI https://t.co/VydlZeHPbH","Yeezy 700 Analog now $250 on Farfetch, new accounts get 10% off with code welc10 https://t.co/SXu53AWBXI https://t.co/VydlZeHPbH","Yeezy 700 Analog now $250 on Farfetch, new accounts get 10% off with code welc10  ","Yeezy  Analog now $ on Farfetch, new accounts get % off with code welc  ",Yeezy  Analog now  on Farfetch new accounts get  off with code welc  ,"['Yeezy', 'Analog', 'Farfetch', 'new', 'accounts', 'get', 'code', 'welc']"
+53,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+54,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+55,You must be mad if you believe that folks in Wuhan will stop selling wild animals in wet markets or on the black ma… https://t.co/Y4a3s3azvm,You must be mad if you believe that folks in Wuhan will stop selling wild animals in wet markets or on the black ma… https://t.co/Y4a3s3azvm,You must be mad if you believe that folks in Wuhan will stop selling wild animals in wet markets or on the black ma… ,You must be mad if you believe that folks in Wuhan will stop selling wild animals in wet markets or on the black ma… ,You must be mad if you believe that folks in Wuhan will stop selling wild animals in wet markets or on the black ma… ,"['You', 'must', 'mad', 'believe', 'folks', 'Wuhan', 'stop', 'selling', 'wild', 'animals', 'wet', 'markets', 'black', 'ma…']"
+56,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+57,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+58,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+59,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+60,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+61,"Huge savings on the Crystal White adidas ""SC Premier"". Using code: SHOP30
+
+NOW: £37.78 =&gt; https://t.co/NpU2bC9QaN… https://t.co/mOk1hYPWKR","Huge savings on the Crystal White adidas ""SC Premier"". Using code: SHOP30
+
+NOW: £37.78 =&gt; https://t.co/NpU2bC9QaN… https://t.co/mOk1hYPWKR","Huge savings on the Crystal White adidas ""SC Premier"". Using code: SHOP30
+
+NOW: £37.78 =&gt;  ","Huge savings on the Crystal White adidas ""SC Premier"". Using code: SHOP
+
+NOW: £. =&gt;  ","Huge savings on the Crystal White adidas SC Premier Using code SHOP
+
+NOW £ gt  ","['Huge', 'savings', 'Crystal', 'White', 'adidas', 'SC', 'Premier', 'Using', 'code', 'SHOP', 'NOW', '£', 'gt']"
+62,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+63,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+64,"RT @SybilOhema: Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","RT  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","RT  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $, Nike tracksuits $ and Kappa tracksuits $#men…",  Winter is here gents Get your tracksuits and joggers Adidas joggers  Nike tracksuits  and Kappa tracksuits men…,"['Winter', 'gents', 'Get', 'tracksuits', 'joggers', 'Adidas', 'joggers', 'Nike', 'tracksuits', 'Kappa', 'tracksuits', 'men…']"
+65,"RT @man_savings: Ad: 📢 The new adidas offer is now ON !  
+
+Use the promo code SHOP30 to save 30% on adidas INCLUDING sale items 🔥🔥
+
+Happy S…","RT  Ad: 📢 The new adidas offer is now ON !  
+
+Use the promo code SHOP30 to save 30% on adidas INCLUDING sale items 🔥🔥
+
+Happy S…","RT  Ad: 📢 The new adidas offer is now ON !  
+
+Use the promo code SHOP30 to save 30% on adidas INCLUDING sale items 🔥🔥
+
+Happy S…","  Ad: 📢 he new adidas offer is now ON !  
+
+Use the promo code SHOP to save % on adidas INCLUDING sale items 🔥🔥
+
+Happy S…","  Ad 📢 he new adidas offer is now ON   
+
+Use the promo code SHOP to save  on adidas INCLUDING sale items 🔥🔥
+
+Happy S…","['Ad', '📢', 'new', 'adidas', 'offer', 'ON', 'Use', 'promo', 'code', 'SHOP', 'save', 'adidas', 'INCLUDING', 'sale', 'items', '🔥🔥', 'Happy', 'S…']"
+66,"RT @GetEshoes: Adidas tennis superstar 
+N22,500
+40-45
+Nationwide Delivery 
+
+Shop now! https://t.co/sLmow9qewD https://t.co/ShqXyXgwu7","RT  Adidas tennis superstar 
+N22,500
+40-45
+Nationwide Delivery 
+
+Shop now! https://t.co/sLmow9qewD https://t.co/ShqXyXgwu7","RT  Adidas tennis superstar 
+N22,500
+40-45
+Nationwide Delivery 
+
+Shop now!  ","  Adidas tennis superstar 
+N,
+-
+Nationwide Delivery 
+
+Shop now!  ","  Adidas tennis superstar 
+N
+
+Nationwide Delivery 
+
+Shop now  ","['Adidas', 'tennis', 'superstar', 'N', 'Nationwide', 'Delivery', 'Shop']"
+67,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+68,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+69,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+70,"RT @saleproxy: adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/SqK9LfG8lF https://…","RT  adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/SqK9LfG8lF https://…","RT  adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+ ","  adidas Yeezy Quantum “Barium”
+Style Code: H
+
+elease Date: June rd, 
+Price: $
+ ","  adidas Yeezy Quantum “Barium”
+Style Code H
+
+elease Date June rd 
+Price 
+ ","['adidas', 'Yeezy', 'Quantum', '“Barium”', 'Style', 'Code', 'H', 'elease', 'Date', 'June', 'rd', 'Price']"
+71,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+72,Not Lana dragging the girls when she goes on stage wearing adidas...,Not Lana dragging the girls when she goes on stage wearing adidas...,Not Lana dragging the girls when she goes on stage wearing adidas...,Not Lana dragging the girls when she goes on stage wearing adidas...,Not Lana dragging the girls when she goes on stage wearing adidas,"['Not', 'Lana', 'dragging', 'girls', 'goes', 'stage', 'wearing', 'adidas']"
+73,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+74,Pretty sure lanez got a 100k plays off me from the adidas song,Pretty sure lanez got a 100k plays off me from the adidas song,Pretty sure lanez got a 100k plays off me from the adidas song,Pretty sure lanez got a k plays off me from the adidas song,Pretty sure lanez got a k plays off me from the adidas song,"['Pretty', 'sure', 'lanez', 'got', 'k', 'plays', 'adidas', 'song']"
+75,"RT @chicletsclips: CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES 
+
+Want to win an Adidas jersey from which ever team you want It’s simple follow the steps below and you’re ent…","['CONES', 'Want', 'win', 'Adidas', 'jersey', 'ever', 'team', 'want', 'It’s', 'simple', 'follow', 'steps', 'you’re', 'ent…']"
+76,"@stickorhubarb @MrLix @TempletonPeckJr cull the monsters.  Barnes there wearing Adidas on an umbro team gig, it was… https://t.co/r1CUNXE1QY","   cull the monsters.  Barnes there wearing Adidas on an umbro team gig, it was… https://t.co/r1CUNXE1QY","   cull the monsters.  Barnes there wearing Adidas on an umbro team gig, it was… ","   cull the monsters.  Barnes there wearing Adidas on an umbro team gig, it was… ",   cull the monsters  Barnes there wearing Adidas on an umbro team gig it was… ,"['cull', 'monsters', 'Barnes', 'wearing', 'Adidas', 'umbro', 'team', 'gig', 'was…']"
+77,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+78,"RT @man_savings: Ad : More reductions ..... Bargains !  
+
+Jake boots now £45.49 (RRP £129.95) and Baara Boots now £29.74 (RRP £84.95) 
+
+Sho…","RT  Ad : More reductions ..... Bargains !  
+
+Jake boots now £45.49 (RRP £129.95) and Baara Boots now £29.74 (RRP £84.95) 
+
+Sho…","RT  Ad : More reductions ..... Bargains !  
+
+Jake boots now £45.49 (RRP £129.95) and Baara Boots now £29.74 (RRP £84.95) 
+
+Sho…","  Ad : More reductions ..... Bargains !  
+
+Jake boots now £. (P £.) and Baara Boots now £. (P £.) 
+
+Sho…","  Ad  More reductions  Bargains   
+
+Jake boots now £ P £ and Baara Boots now £ P £ 
+
+Sho…","['Ad', 'More', 'reductions', 'Bargains', 'Jake', 'boots', '£', 'P', '£', 'Baara', 'Boots', '£', 'P', '£', 'Sho…']"
+79,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+80,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+81,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+82,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+83,RT @FootballFactly: Remember this Adidas advert “Jose +10” from 2006?  https://t.co/EST8aI5Nyh,RT  Remember this Adidas advert “Jose +10” from 2006?  https://t.co/EST8aI5Nyh,RT  Remember this Adidas advert “Jose +10” from 2006?  ,  emember this Adidas advert “Jose +” from ?  ,  emember this Adidas advert “Jose ” from   ,"['emember', 'Adidas', 'advert', '“Jose', '”']"
+84,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+85,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+86,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+87,"RT @life_ofslim: @SpecialMynd @IrunmoleWeil Nah you can buy original Zara, Nike, adidas and the likes than buying fake gucci etc","RT    Nah you can buy original Zara, Nike, adidas and the likes than buying fake gucci etc","RT    Nah you can buy original Zara, Nike, adidas and the likes than buying fake gucci etc","    Nah you can buy original Zara, Nike, adidas and the likes than buying fake gucci etc",    Nah you can buy original Zara Nike adidas and the likes than buying fake gucci etc,"['Nah', 'buy', 'original', 'Zara', 'Nike', 'adidas', 'likes', 'buying', 'fake', 'gucci', 'etc']"
+88,@Jaypringg we shot a bunch of stuff for the adidas Liverpool in there too. i think we're just shoe-horning ways to… https://t.co/jjUIuWmQSf, we shot a bunch of stuff for the adidas Liverpool in there too. i think we're just shoe-horning ways to… https://t.co/jjUIuWmQSf, we shot a bunch of stuff for the adidas Liverpool in there too. i think we're just shoe-horning ways to… , we shot a bunch of stuff for the adidas Liverpool in there too. i think we're just shoe-horning ways to… , we shot a bunch of stuff for the adidas Liverpool in there too i think were just shoehorning ways to… ,"['shot', 'bunch', 'stuff', 'adidas', 'Liverpool', 'think', 'shoehorning', 'ways', 'to…']"
+89,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+90,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+91,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+92,@greenwhitehoops @BobCrilly2 @4ladshadadream It’s a discussion with a co founder of castore the man who discusses a… https://t.co/F6zAs5bCAq,   It’s a discussion with a co founder of castore the man who discusses a… https://t.co/F6zAs5bCAq,   It’s a discussion with a co founder of castore the man who discusses a… ,   It’s a discussion with a co founder of castore the man who discusses a… ,   It’s a discussion with a co founder of castore the man who discusses a… ,"['It’s', 'discussion', 'co', 'founder', 'castore', 'man', 'discusses', 'a…']"
+93,"RT @ShoeGuyOtis: INIKI 🤍🤍🤍🤍
+
+Adidas for the win https://t.co/T0RE1UdHJ6","RT  INIKI 🤍🤍🤍🤍
+
+Adidas for the win https://t.co/T0RE1UdHJ6","RT  INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","  INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","  INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","['INIKI', '\U0001f90d\U0001f90d\U0001f90d\U0001f90d', 'Adidas', 'win']"
+94,@StuAuld @R_O_P_E_R_7_2 @ProfColinBean I have observed your impressive running @StuAuld as I drove past on my way t… https://t.co/PhVL8JQ6hA,   I have observed your impressive running  as I drove past on my way t… https://t.co/PhVL8JQ6hA,   I have observed your impressive running  as I drove past on my way t… ,   I have observed your impressive running  as I drove past on my way t… ,   I have observed your impressive running  as I drove past on my way t… ,"['I', 'observed', 'impressive', 'running', 'I', 'drove', 'past', 'way', 't…']"
+95,RT @okolizmaine: We got these authentic Nike &amp; Adidas slides for sale. Sizes 38-47. For men and women. And We can deliver anywhere within t…,RT  We got these authentic Nike &amp; Adidas slides for sale. Sizes 38-47. For men and women. And We can deliver anywhere within t…,RT  We got these authentic Nike &amp; Adidas slides for sale. Sizes 38-47. For men and women. And We can deliver anywhere within t…,  We got these authentic Nike &amp; Adidas slides for sale. Sizes -. For men and women. And We can deliver anywhere within t…,  We got these authentic Nike amp Adidas slides for sale Sizes  For men and women And We can deliver anywhere within t…,"['We', 'got', 'authentic', 'Nike', 'amp', 'Adidas', 'slides', 'sale', 'Sizes', 'For', 'men', 'women', 'And', 'We', 'deliver', 'anywhere', 'within', 't…']"
+96,@MascotDec1888 @brianmurphy348 Bet your happy about the Adidas deal,  Bet your happy about the Adidas deal,  Bet your happy about the Adidas deal,  Bet your happy about the Adidas deal,  Bet your happy about the Adidas deal,"['Bet', 'happy', 'Adidas', 'deal']"
+97,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+98,"RT @Football_BM: Recently, Adidas extended its kit supplier deal with @realmadrid, which will sbring EUR 120 million annually for the upcom…","RT  Recently, Adidas extended its kit supplier deal with  which will sbring EUR 120 million annually for the upcom…","RT  Recently, Adidas extended its kit supplier deal with  which will sbring EUR 120 million annually for the upcom…","  ecently, Adidas extended its kit supplier deal with  which will sbring EU  million annually for the upcom…",  ecently Adidas extended its kit supplier deal with  which will sbring EU  million annually for the upcom…,"['ecently', 'Adidas', 'extended', 'kit', 'supplier', 'deal', 'sbring', 'EU', 'million', 'annually', 'upcom…']"
+99,"AD : Couple of sizes back
+adidas Originals Yeezy Boost 700 V2 ‘Tephra’ on BSTN
+=&gt;https://t.co/F7JRKFd0sH https://t.co/yFoCLWJFaL","AD : Couple of sizes back
+adidas Originals Yeezy Boost 700 V2 ‘Tephra’ on BSTN
+=&gt;https://t.co/F7JRKFd0sH https://t.co/yFoCLWJFaL","AD : Couple of sizes back
+adidas Originals Yeezy Boost 700 V2 ‘Tephra’ on BSTN
+=&gt; ","AD : Couple of sizes back
+adidas Originals Yeezy Boost  V ‘ephra’ on BSN
+=&gt; ","AD  Couple of sizes back
+adidas Originals Yeezy Boost  V ‘ephra’ on BSN
+gt ","['AD', 'Couple', 'sizes', 'back', 'adidas', 'Originals', 'Yeezy', 'Boost', 'V', '‘ephra’', 'BSN', 'gt']"
+100,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+101,RT @PeterFinchGolf: FULL WARDROBE GIVEAWAY ! For a chance to win a full adidas wardrobe follow me and @adidasgolf like and retweet this pos…,RT  FULL WARDROBE GIVEAWAY ! For a chance to win a full adidas wardrobe follow me and  like and retweet this pos…,RT  FULL WARDROBE GIVEAWAY ! For a chance to win a full adidas wardrobe follow me and  like and retweet this pos…,  FULL WADOBE GIVEAWAY ! For a chance to win a full adidas wardrobe follow me and  like and retweet this pos…,  FULL WADOBE GIVEAWAY  For a chance to win a full adidas wardrobe follow me and  like and retweet this pos…,"['FULL', 'WADOBE', 'GIVEAWAY', 'For', 'chance', 'win', 'full', 'adidas', 'wardrobe', 'follow', 'like', 'retweet', 'pos…']"
+102,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+103,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+104,"#adifam #adidas #shareyourstripes after a pair of köln in size 9 please, second hand not an issue. Please rt","#adifam #adidas #shareyourstripes after a pair of köln in size 9 please, second hand not an issue. Please rt","#adifam #adidas #shareyourstripes after a pair of köln in size 9 please, second hand not an issue. Please rt","#adifam #adidas #shareyourstripes after a pair of köln in size  please, second hand not an issue. Please rt",adifam adidas shareyourstripes after a pair of köln in size  please second hand not an issue Please rt,"['adifam', 'adidas', 'shareyourstripes', 'pair', 'köln', 'size', 'please', 'second', 'hand', 'issue', 'Please', 'rt']"
+105,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+106,"@SpecialMynd @IrunmoleWeil Nah you can buy original Zara, Nike, adidas and the likes than buying fake gucci etc","  Nah you can buy original Zara, Nike, adidas and the likes than buying fake gucci etc","  Nah you can buy original Zara, Nike, adidas and the likes than buying fake gucci etc","  Nah you can buy original Zara, Nike, adidas and the likes than buying fake gucci etc",  Nah you can buy original Zara Nike adidas and the likes than buying fake gucci etc,"['Nah', 'buy', 'original', 'Zara', 'Nike', 'adidas', 'likes', 'buying', 'fake', 'gucci', 'etc']"
+107,"RT @Dorisyakubuu: ```~__*KINDLY SEND IN YOUR ORDERS.
+
+ADIDAS YEEZY SLIDE 
+
+SIZES 40-45
+
+30k ONLY ...*__~```
+
+Nationwide delivery
+
+Please rt…","RT  ```~__*KINDLY SEND IN YOUR ORDERS.
+
+ADIDAS YEEZY SLIDE 
+
+SIZES 40-45
+
+30k ONLY ...*__~```
+
+Nationwide delivery
+
+Please rt…","RT  ```~__*KINDLY SEND IN YOUR ORDERS.
+
+ADIDAS YEEZY SLIDE 
+
+SIZES 40-45
+
+30k ONLY ...*__~```
+
+Nationwide delivery
+
+Please rt…","  ```~__*KINDLY SEND IN YOU ODES.
+
+ADIDAS YEEZY SLIDE 
+
+SIZES -
+
+k ONLY ...*__~```
+
+Nationwide delivery
+
+Please rt…","  KINDLY SEND IN YOU ODES
+
+ADIDAS YEEZY SLIDE 
+
+SIZES 
+
+k ONLY 
+
+Nationwide delivery
+
+Please rt…","['KINDLY', 'SEND', 'IN', 'YOU', 'ODES', 'ADIDAS', 'YEEZY', 'SLIDE', 'SIZES', 'k', 'ONLY', 'Nationwide', 'delivery', 'Please', 'rt…']"
+108,"AD : Couple of sizes on BSTN
+adidas Originals Yeezy Boost 350 V2 ‘Yeezreel’ Non-Reflective
+=&gt;https://t.co/AJWNvj8azC https://t.co/S89wrVm9K4","AD : Couple of sizes on BSTN
+adidas Originals Yeezy Boost 350 V2 ‘Yeezreel’ Non-Reflective
+=&gt;https://t.co/AJWNvj8azC https://t.co/S89wrVm9K4","AD : Couple of sizes on BSTN
+adidas Originals Yeezy Boost 350 V2 ‘Yeezreel’ Non-Reflective
+=&gt; ","AD : Couple of sizes on BSN
+adidas Originals Yeezy Boost  V ‘Yeezreel’ Non-eflective
+=&gt; ","AD  Couple of sizes on BSN
+adidas Originals Yeezy Boost  V ‘Yeezreel’ Noneflective
+gt ","['AD', 'Couple', 'sizes', 'BSN', 'adidas', 'Originals', 'Yeezy', 'Boost', 'V', '‘Yeezreel’', 'Noneflective', 'gt']"
+109,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+110,@LUNARHYUCKIE 🥺🥺 u okay adidas?, 🥺🥺 u okay adidas?, 🥺🥺 u okay adidas?, 🥺🥺 u okay adidas?, 🥺🥺 u okay adidas,"['🥺🥺', 'u', 'okay', 'adidas']"
+111,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+112,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+113,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+114,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+115,"Recently, Adidas extended its kit supplier deal with @realmadrid, which will sbring EUR 120 million annually for th… https://t.co/Ca4snWcjPB","Recently, Adidas extended its kit supplier deal with  which will sbring EUR 120 million annually for th… https://t.co/Ca4snWcjPB","Recently, Adidas extended its kit supplier deal with  which will sbring EUR 120 million annually for th… ","ecently, Adidas extended its kit supplier deal with  which will sbring EU  million annually for th… ",ecently Adidas extended its kit supplier deal with  which will sbring EU  million annually for th… ,"['ecently', 'Adidas', 'extended', 'kit', 'supplier', 'deal', 'sbring', 'EU', 'million', 'annually', 'th…']"
+116,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+117,adidas pants look like he don’t think for himself https://t.co/TDrc2r50s4,adidas pants look like he don’t think for himself https://t.co/TDrc2r50s4,adidas pants look like he don’t think for himself ,adidas pants look like he don’t think for himself ,adidas pants look like he don’t think for himself ,"['adidas', 'pants', 'look', 'like', 'don’t', 'think']"
+118,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+119,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+120,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+121,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+122,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+123,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+124,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+125,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+126,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+127,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+128,RT @SneakerNews: adidas 4D soles on the Ultra Boost Uncaged? 👏 https://t.co/3FMfVVAgT5 https://t.co/nUmL1JmsuA,RT  adidas 4D soles on the Ultra Boost Uncaged? 👏 https://t.co/3FMfVVAgT5 https://t.co/nUmL1JmsuA,RT  adidas 4D soles on the Ultra Boost Uncaged? 👏  ,  adidas D soles on the Ultra Boost Uncaged? 👏  ,  adidas D soles on the Ultra Boost Uncaged 👏  ,"['adidas', 'D', 'soles', 'Ultra', 'Boost', 'Uncaged', '👏']"
+129,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+130,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+131,RT @dillochick: @justin_ng @Number10cat I’m intrigued whose Adidas clad foot and bare leg that is. Not normal No 10 attire,RT    I’m intrigued whose Adidas clad foot and bare leg that is. Not normal No 10 attire,RT    I’m intrigued whose Adidas clad foot and bare leg that is. Not normal No 10 attire,    I’m intrigued whose Adidas clad foot and bare leg that is. Not normal No  attire,    I’m intrigued whose Adidas clad foot and bare leg that is Not normal No  attire,"['I’m', 'intrigued', 'whose', 'Adidas', 'clad', 'foot', 'bare', 'leg', 'Not', 'normal', 'No', 'attire']"
+132,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+133,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+134,"RT @Stuart_PhotoAFC: Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","RT  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","RT  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…",  Can’t believe I’ve never posted this picture four of my favourite Arsenal players in one of my favourite kits What a…,"['Can’t', 'believe', 'I’ve', 'never', 'posted', 'picture', 'four', 'favourite', 'Arsenal', 'players', 'one', 'favourite', 'kits', 'What', 'a…']"
+135,"RT @ShoeGuyOtis: INIKI 🤍🤍🤍🤍
+
+Adidas for the win https://t.co/T0RE1UdHJ6","RT  INIKI 🤍🤍🤍🤍
+
+Adidas for the win https://t.co/T0RE1UdHJ6","RT  INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","  INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","  INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","['INIKI', '\U0001f90d\U0001f90d\U0001f90d\U0001f90d', 'Adidas', 'win']"
+136,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+137,@kyunewton @ayemswolf @adidas Hello @Adidas. I feel that this man right here is a prime example of a money making m… https://t.co/bNcyAwaq2i,   Hello  I feel that this man right here is a prime example of a money making m… https://t.co/bNcyAwaq2i,   Hello  I feel that this man right here is a prime example of a money making m… ,   Hello  I feel that this man right here is a prime example of a money making m… ,   Hello  I feel that this man right here is a prime example of a money making m… ,"['Hello', 'I', 'feel', 'man', 'right', 'prime', 'example', 'money', 'making', 'm…']"
+138,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+139,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+140,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+141,"RT @ShoeGuyOtis: INIKI 🤍🤍🤍🤍
+
+Adidas for the win https://t.co/T0RE1UdHJ6","RT  INIKI 🤍🤍🤍🤍
+
+Adidas for the win https://t.co/T0RE1UdHJ6","RT  INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","  INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","  INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","['INIKI', '\U0001f90d\U0001f90d\U0001f90d\U0001f90d', 'Adidas', 'win']"
+142,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+143,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+144,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+145,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+146,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+147,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+148,"RT @SybilOhema: Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","RT  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","RT  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $, Nike tracksuits $ and Kappa tracksuits $#men…",  Winter is here gents Get your tracksuits and joggers Adidas joggers  Nike tracksuits  and Kappa tracksuits men…,"['Winter', 'gents', 'Get', 'tracksuits', 'joggers', 'Adidas', 'joggers', 'Nike', 'tracksuits', 'Kappa', 'tracksuits', 'men…']"
+149,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+150,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+151,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+152,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+153,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+154,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+155,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+156,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+157,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+158,"RT @Stuart_PhotoAFC: Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","RT  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","RT  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…",  Can’t believe I’ve never posted this picture four of my favourite Arsenal players in one of my favourite kits What a…,"['Can’t', 'believe', 'I’ve', 'never', 'posted', 'picture', 'four', 'favourite', 'Arsenal', 'players', 'one', 'favourite', 'kits', 'What', 'a…']"
+159,"RT @Chrisdexter1: 20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","RT  20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","RT  20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","  % OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…",   OFF Coupon for Men and Women Fashion Deals  PUMA adidas Nike and More deals discounts fashion coupons https…,"['OFF', 'Coupon', 'Men', 'Women', 'Fashion', 'Deals', 'PUMA', 'adidas', 'Nike', 'More', 'deals', 'discounts', 'fashion', 'coupons', 'https…']"
+160,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+161,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+162,"RT @sneakersproxy: adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/gQXROtHDwW http…","RT  adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/gQXROtHDwW http…","RT  adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+ http…","  adidas Yeezy Quantum “Barium”
+Style Code: H
+
+elease Date: June rd, 
+Price: $
+ http…","  adidas Yeezy Quantum “Barium”
+Style Code H
+
+elease Date June rd 
+Price 
+ http…","['adidas', 'Yeezy', 'Quantum', '“Barium”', 'Style', 'Code', 'H', 'elease', 'Date', 'June', 'rd', 'Price', 'http…']"
+163,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+164,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+165,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+166,"adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/fV1Zhu4O33 https://t.co/IQ80RIvwqm","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/fV1Zhu4O33 https://t.co/IQ80RIvwqm","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+ ","adidas Yeezy Quantum “Barium”
+Style Code: H
+
+elease Date: June rd, 
+Price: $
+ ","adidas Yeezy Quantum “Barium”
+Style Code H
+
+elease Date June rd 
+Price 
+ ","['adidas', 'Yeezy', 'Quantum', '“Barium”', 'Style', 'Code', 'H', 'elease', 'Date', 'June', 'rd', 'Price']"
+167,"RT @Chrisdexter1: 20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","RT  20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","RT  20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","  % OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…",   OFF Coupon for Men and Women Fashion Deals  PUMA adidas Nike and More deals discounts fashion coupons https…,"['OFF', 'Coupon', 'Men', 'Women', 'Fashion', 'Deals', 'PUMA', 'adidas', 'Nike', 'More', 'deals', 'discounts', 'fashion', 'coupons', 'https…']"
+168,RT @firemyth_off: Thx you so much to the photographer and @Rekskt #adidas #adidasoriginals #adidaschile #adidaschile62 #chile62 #adidastrac…,RT  Thx you so much to the photographer and  #adidas #adidasoriginals #adidaschile #adidaschile62 #chile62 #adidastrac…,RT  Thx you so much to the photographer and  #adidas #adidasoriginals #adidaschile #adidaschile62 #chile62 #adidastrac…,  hx you so much to the photographer and  #adidas #adidasoriginals #adidaschile #adidaschile #chile #adidastrac…,  hx you so much to the photographer and  adidas adidasoriginals adidaschile adidaschile chile adidastrac…,"['hx', 'much', 'photographer', 'adidas', 'adidasoriginals', 'adidaschile', 'adidaschile', 'chile', 'adidastrac…']"
+169,"RT @SybilOhema: Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","RT  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","RT  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $, Nike tracksuits $ and Kappa tracksuits $#men…",  Winter is here gents Get your tracksuits and joggers Adidas joggers  Nike tracksuits  and Kappa tracksuits men…,"['Winter', 'gents', 'Get', 'tracksuits', 'joggers', 'Adidas', 'joggers', 'Nike', 'tracksuits', 'Kappa', 'tracksuits', 'men…']"
+170,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+171,"RT @Chrisdexter1: 20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","RT  20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","RT  20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","  % OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…",   OFF Coupon for Men and Women Fashion Deals  PUMA adidas Nike and More deals discounts fashion coupons https…,"['OFF', 'Coupon', 'Men', 'Women', 'Fashion', 'Deals', 'PUMA', 'adidas', 'Nike', 'More', 'deals', 'discounts', 'fashion', 'coupons', 'https…']"
+172,"Received the sign that the ""canyonseason"" is opened in Europe with the delivery of &gt;100 pair Adidas Terrex Hydros L… https://t.co/wshciqkLH0","Received the sign that the ""canyonseason"" is opened in Europe with the delivery of &gt;100 pair Adidas Terrex Hydros L… https://t.co/wshciqkLH0","Received the sign that the ""canyonseason"" is opened in Europe with the delivery of &gt;100 pair Adidas Terrex Hydros L… ","eceived the sign that the ""canyonseason"" is opened in Europe with the delivery of &gt; pair Adidas errex Hydros L… ",eceived the sign that the canyonseason is opened in Europe with the delivery of gt pair Adidas errex Hydros L… ,"['eceived', 'sign', 'canyonseason', 'opened', 'Europe', 'delivery', 'gt', 'pair', 'Adidas', 'errex', 'Hydros', 'L…']"
+173,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+174,This adidas NMD_R1 arrives 6/1. Thoughts? https://t.co/xibTskmWw5 https://t.co/1s9Vo2TQOb,This adidas NMD_R1 arrives 6/1. Thoughts? https://t.co/xibTskmWw5 https://t.co/1s9Vo2TQOb,This adidas NMD_R1 arrives 6/1. Thoughts?  ,his adidas NMD_ arrives /. houghts?  ,his adidas NMD arrives  houghts  ,"['adidas', 'NMD', 'arrives', 'houghts']"
+175,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+176,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+177,"RT @Chrisdexter1: 20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","RT  20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","RT  20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","  % OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…",   OFF Coupon for Men and Women Fashion Deals  PUMA adidas Nike and More deals discounts fashion coupons https…,"['OFF', 'Coupon', 'Men', 'Women', 'Fashion', 'Deals', 'PUMA', 'adidas', 'Nike', 'More', 'deals', 'discounts', 'fashion', 'coupons', 'https…']"
+178,"adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/8MJgZdpvmE https://t.co/fk3Nha8oo7","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/8MJgZdpvmE https://t.co/fk3Nha8oo7","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+ ","adidas Yeezy Quantum “Barium”
+Style Code: H
+
+elease Date: June rd, 
+Price: $
+ ","adidas Yeezy Quantum “Barium”
+Style Code H
+
+elease Date June rd 
+Price 
+ ","['adidas', 'Yeezy', 'Quantum', '“Barium”', 'Style', 'Code', 'H', 'elease', 'Date', 'June', 'rd', 'Price']"
+179,"adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/SqK9LfG8lF https://t.co/2qThvROfCV","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/SqK9LfG8lF https://t.co/2qThvROfCV","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+ ","adidas Yeezy Quantum “Barium”
+Style Code: H
+
+elease Date: June rd, 
+Price: $
+ ","adidas Yeezy Quantum “Barium”
+Style Code H
+
+elease Date June rd 
+Price 
+ ","['adidas', 'Yeezy', 'Quantum', '“Barium”', 'Style', 'Code', 'H', 'elease', 'Date', 'June', 'rd', 'Price']"
+180,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+181,"adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/gQXROtHDwW https://t.co/ZyjmAPvJ0C","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/gQXROtHDwW https://t.co/ZyjmAPvJ0C","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+ ","adidas Yeezy Quantum “Barium”
+Style Code: H
+
+elease Date: June rd, 
+Price: $
+ ","adidas Yeezy Quantum “Barium”
+Style Code H
+
+elease Date June rd 
+Price 
+ ","['adidas', 'Yeezy', 'Quantum', '“Barium”', 'Style', 'Code', 'H', 'elease', 'Date', 'June', 'rd', 'Price']"
+182,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+183,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+184,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+185,RT @shwshark: Now we have ot7 Adidas 🤩🤩🤩🤩 https://t.co/hYNTDeFwYO,RT  Now we have ot7 Adidas 🤩🤩🤩🤩 https://t.co/hYNTDeFwYO,RT  Now we have ot7 Adidas 🤩🤩🤩🤩 ,  Now we have ot Adidas 🤩🤩🤩🤩 ,  Now we have ot Adidas 🤩🤩🤩🤩 ,"['Now', 'ot', 'Adidas', '🤩🤩🤩🤩']"
+186,"adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/fIUJzkX6Ut https://t.co/hgxFUoObBg","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/fIUJzkX6Ut https://t.co/hgxFUoObBg","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+ ","adidas Yeezy Quantum “Barium”
+Style Code: H
+
+elease Date: June rd, 
+Price: $
+ ","adidas Yeezy Quantum “Barium”
+Style Code H
+
+elease Date June rd 
+Price 
+ ","['adidas', 'Yeezy', 'Quantum', '“Barium”', 'Style', 'Code', 'H', 'elease', 'Date', 'June', 'rd', 'Price']"
+187,"RT @TSocial_Bout: Adidas Adilette Slide 
+Size 39-43
+GHc150
+Look Sharp And Contact 0556440690
+#DaybreakHitz 
+#vgma20 https://t.co/9CQOTTtRTH","RT  Adidas Adilette Slide 
+Size 39-43
+GHc150
+Look Sharp And Contact 0556440690
+#DaybreakHitz 
+#vgma20 https://t.co/9CQOTTtRTH","RT  Adidas Adilette Slide 
+Size 39-43
+GHc150
+Look Sharp And Contact 0556440690
+#DaybreakHitz 
+#vgma20 ","  Adidas Adilette Slide 
+Size -
+GHc
+Look Sharp And Contact 
+#DaybreakHitz 
+#vgma ","  Adidas Adilette Slide 
+Size 
+GHc
+Look Sharp And Contact 
+DaybreakHitz 
+vgma ","['Adidas', 'Adilette', 'Slide', 'Size', 'GHc', 'Look', 'Sharp', 'And', 'Contact', 'DaybreakHitz', 'vgma']"
+188,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+189,"RT @Chrisdexter1: 20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","RT  20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","RT  20% OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…","  % OFF Coupon for Men and Women Fashion Deals - PUMA, adidas, Nike and More! #deals #discounts #fashion #coupons https:/…",   OFF Coupon for Men and Women Fashion Deals  PUMA adidas Nike and More deals discounts fashion coupons https…,"['OFF', 'Coupon', 'Men', 'Women', 'Fashion', 'Deals', 'PUMA', 'adidas', 'Nike', 'More', 'deals', 'discounts', 'fashion', 'coupons', 'https…']"
+190,"#adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/yiPnGXdrNG https://t.co/O2VjnN1Uc2","#adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/yiPnGXdrNG https://t.co/O2VjnN1Uc2","#adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+ ","#adidas Yeezy Quantum “Barium”
+Style Code: H
+
+elease Date: June rd, 
+Price: $
+ ","adidas Yeezy Quantum “Barium”
+Style Code H
+
+elease Date June rd 
+Price 
+ ","['adidas', 'Yeezy', 'Quantum', '“Barium”', 'Style', 'Code', 'H', 'elease', 'Date', 'June', 'rd', 'Price']"
+191,@RD_murray @Nike @saucony @HOKAONEONE @adidas @ASICSamerica fastest triathlete in the world #futureolympicgoldmedalist,      fastest triathlete in the world #futureolympicgoldmedalist,      fastest triathlete in the world #futureolympicgoldmedalist,      fastest triathlete in the world #futureolympicgoldmedalist,      fastest triathlete in the world futureolympicgoldmedalist,"['fastest', 'triathlete', 'world', 'futureolympicgoldmedalist']"
+192,"RT @SneakerNews: Are you a fan of the Yeezy Quantum? This ""Barium"" colorway arrives on 6/13. https://t.co/mECpqtXRsq https://t.co/w14fyqf4eH","RT  Are you a fan of the Yeezy Quantum? This ""Barium"" colorway arrives on 6/13. https://t.co/mECpqtXRsq https://t.co/w14fyqf4eH","RT  Are you a fan of the Yeezy Quantum? This ""Barium"" colorway arrives on 6/13.  ","  Are you a fan of the Yeezy Quantum? his ""Barium"" colorway arrives on /.  ",  Are you a fan of the Yeezy Quantum his Barium colorway arrives on   ,"['Are', 'fan', 'Yeezy', 'Quantum', 'Barium', 'colorway', 'arrives']"
+193,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+194,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+195,"adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/sVh25EpAQh https://t.co/iFIbOxtUuz","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/sVh25EpAQh https://t.co/iFIbOxtUuz","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+ ","adidas Yeezy Quantum “Barium”
+Style Code: H
+
+elease Date: June rd, 
+Price: $
+ ","adidas Yeezy Quantum “Barium”
+Style Code H
+
+elease Date June rd 
+Price 
+ ","['adidas', 'Yeezy', 'Quantum', '“Barium”', 'Style', 'Code', 'H', 'elease', 'Date', 'June', 'rd', 'Price']"
+196,So good I had to share! Check out all the items I'm loving on @Poshmarkapp #poshmark #fashion #style #shopmycloset… https://t.co/RAJG5LrUoL,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… https://t.co/RAJG5LrUoL,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… ,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… ,So good I had to share Check out all the items Im loving on  poshmark fashion style shopmycloset… ,"['So', 'good', 'I', 'share', 'Check', 'items', 'Im', 'loving', 'poshmark', 'fashion', 'style', 'shopmycloset…']"
+197,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+198,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+199,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+200,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+201,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+202,RT @malayramen: wonho’s wearing adidas too. you know what i mean😏😏😏 https://t.co/4BNVoMnilc,RT  wonho’s wearing adidas too. you know what i mean😏😏😏 https://t.co/4BNVoMnilc,RT  wonho’s wearing adidas too. you know what i mean😏😏😏 ,  wonho’s wearing adidas too. you know what i mean😏😏😏 ,  wonho’s wearing adidas too you know what i mean😏😏😏 ,"['wonho’s', 'wearing', 'adidas', 'know', 'mean😏😏😏']"
+203,So good I had to share! Check out all the items I'm loving on @Poshmarkapp #poshmark #fashion #style #shopmycloset… https://t.co/8G0g1pqdtt,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… https://t.co/8G0g1pqdtt,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… ,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… ,So good I had to share Check out all the items Im loving on  poshmark fashion style shopmycloset… ,"['So', 'good', 'I', 'share', 'Check', 'items', 'Im', 'loving', 'poshmark', 'fashion', 'style', 'shopmycloset…']"
+204,"```~__*KINDLY SEND IN YOUR ORDERS.
+
+ADIDAS YEEZY SLIDE 
+
+SIZES 40-45
+
+30k ONLY ...*__~```
+
+Nationwide delivery
+
+Ple… https://t.co/7srq4CBLmA","```~__*KINDLY SEND IN YOUR ORDERS.
+
+ADIDAS YEEZY SLIDE 
+
+SIZES 40-45
+
+30k ONLY ...*__~```
+
+Nationwide delivery
+
+Ple… https://t.co/7srq4CBLmA","```~__*KINDLY SEND IN YOUR ORDERS.
+
+ADIDAS YEEZY SLIDE 
+
+SIZES 40-45
+
+30k ONLY ...*__~```
+
+Nationwide delivery
+
+Ple… ","```~__*KINDLY SEND IN YOU ODES.
+
+ADIDAS YEEZY SLIDE 
+
+SIZES -
+
+k ONLY ...*__~```
+
+Nationwide delivery
+
+Ple… ","KINDLY SEND IN YOU ODES
+
+ADIDAS YEEZY SLIDE 
+
+SIZES 
+
+k ONLY 
+
+Nationwide delivery
+
+Ple… ","['KINDLY', 'SEND', 'IN', 'YOU', 'ODES', 'ADIDAS', 'YEEZY', 'SLIDE', 'SIZES', 'k', 'ONLY', 'Nationwide', 'delivery', 'Ple…']"
+205,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+206,So good I had to share! Check out all the items I'm loving on @Poshmarkapp #poshmark #fashion #style #shopmycloset… https://t.co/iTFm0JhqJX,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… https://t.co/iTFm0JhqJX,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… ,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… ,So good I had to share Check out all the items Im loving on  poshmark fashion style shopmycloset… ,"['So', 'good', 'I', 'share', 'Check', 'items', 'Im', 'loving', 'poshmark', 'fashion', 'style', 'shopmycloset…']"
+207,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+208,RT @FootballFactly: Remember this Adidas advert “Jose +10” from 2006?  https://t.co/EST8aI5Nyh,RT  Remember this Adidas advert “Jose +10” from 2006?  https://t.co/EST8aI5Nyh,RT  Remember this Adidas advert “Jose +10” from 2006?  ,  emember this Adidas advert “Jose +” from ?  ,  emember this Adidas advert “Jose ” from   ,"['emember', 'Adidas', 'advert', '“Jose', '”']"
+209,@SimonFraser00 @13sarahmurphy My son moved to Germany over a year ago.  He wanted to design trainers from around 5… https://t.co/3QVODaqmaj,  My son moved to Germany over a year ago.  He wanted to design trainers from around 5… https://t.co/3QVODaqmaj,  My son moved to Germany over a year ago.  He wanted to design trainers from around 5… ,  My son moved to Germany over a year ago.  He wanted to design trainers from around … ,  My son moved to Germany over a year ago  He wanted to design trainers from around … ,"['My', 'son', 'moved', 'Germany', 'year', 'ago', 'He', 'wanted', 'design', 'trainers', 'around', '…']"
+210,So good I had to share! Check out all the items I'm loving on @Poshmarkapp #poshmark #fashion #style #shopmycloset… https://t.co/iNNNeC6KSz,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… https://t.co/iNNNeC6KSz,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… ,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… ,So good I had to share Check out all the items Im loving on  poshmark fashion style shopmycloset… ,"['So', 'good', 'I', 'share', 'Check', 'items', 'Im', 'loving', 'poshmark', 'fashion', 'style', 'shopmycloset…']"
+211,So good I had to share! Check out all the items I'm loving on @Poshmarkapp from @ameliascloset_1 #poshmark #fashion… https://t.co/xb0mj7raF7,So good I had to share! Check out all the items I'm loving on  from  #poshmark #fashion… https://t.co/xb0mj7raF7,So good I had to share! Check out all the items I'm loving on  from  #poshmark #fashion… ,So good I had to share! Check out all the items I'm loving on  from  #poshmark #fashion… ,So good I had to share Check out all the items Im loving on  from  poshmark fashion… ,"['So', 'good', 'I', 'share', 'Check', 'items', 'Im', 'loving', 'poshmark', 'fashion…']"
+212,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+213,"RT @GetEshoes: Adidas Popular slides 
+N17,000
+40-45
+Nationwide delivery 
+
+Shop now! https://t.co/sLmow9qewD https://t.co/6apA6jBzzu","RT  Adidas Popular slides 
+N17,000
+40-45
+Nationwide delivery 
+
+Shop now! https://t.co/sLmow9qewD https://t.co/6apA6jBzzu","RT  Adidas Popular slides 
+N17,000
+40-45
+Nationwide delivery 
+
+Shop now!  ","  Adidas Popular slides 
+N,
+-
+Nationwide delivery 
+
+Shop now!  ","  Adidas Popular slides 
+N
+
+Nationwide delivery 
+
+Shop now  ","['Adidas', 'Popular', 'slides', 'N', 'Nationwide', 'delivery', 'Shop']"
+214,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+215,#Nike #Yeezy #Passion: nike air jordan 14 retro Laney Hype Yeezy Lot Adidas Rare Supreme https://t.co/VYg9flMftL https://t.co/GfOJzeCCOh,#Nike #Yeezy #Passion: nike air jordan 14 retro Laney Hype Yeezy Lot Adidas Rare Supreme https://t.co/VYg9flMftL https://t.co/GfOJzeCCOh,#Nike #Yeezy #Passion: nike air jordan 14 retro Laney Hype Yeezy Lot Adidas Rare Supreme  ,#Nike #Yeezy #Passion: nike air jordan  retro Laney Hype Yeezy Lot Adidas are Supreme  ,Nike Yeezy Passion nike air jordan  retro Laney Hype Yeezy Lot Adidas are Supreme  ,"['Nike', 'Yeezy', 'Passion', 'nike', 'air', 'jordan', 'retro', 'Laney', 'Hype', 'Yeezy', 'Lot', 'Adidas', 'Supreme']"
+216,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+217,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+218,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+219,"RT @TonyTallor: adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/B4HzaCzbUj https:/…","RT  adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/B4HzaCzbUj https:/…","RT  adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+ https:/…","  adidas Yeezy Quantum “Barium”
+Style Code: H
+
+elease Date: June rd, 
+Price: $
+ https:/…","  adidas Yeezy Quantum “Barium”
+Style Code H
+
+elease Date June rd 
+Price 
+ https…","['adidas', 'Yeezy', 'Quantum', '“Barium”', 'Style', 'Code', 'H', 'elease', 'Date', 'June', 'rd', 'Price', 'https…']"
+220,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+221,So good I had to share! Check out all the items I'm loving on @Poshmarkapp from @lolitajohnstone #poshmark #fashion… https://t.co/YX21XcHutc,So good I had to share! Check out all the items I'm loving on  from  #poshmark #fashion… https://t.co/YX21XcHutc,So good I had to share! Check out all the items I'm loving on  from  #poshmark #fashion… ,So good I had to share! Check out all the items I'm loving on  from  #poshmark #fashion… ,So good I had to share Check out all the items Im loving on  from  poshmark fashion… ,"['So', 'good', 'I', 'share', 'Check', 'items', 'Im', 'loving', 'poshmark', 'fashion…']"
+222,"RT @chicletsclips: CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES 
+
+Want to win an Adidas jersey from which ever team you want It’s simple follow the steps below and you’re ent…","['CONES', 'Want', 'win', 'Adidas', 'jersey', 'ever', 'team', 'want', 'It’s', 'simple', 'follow', 'steps', 'you’re', 'ent…']"
+223,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+224,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+225,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+226,So good I had to share! Check out all the items I'm loving on @Poshmarkapp #poshmark #fashion #style #shopmycloset… https://t.co/tm6PJq6kmf,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… https://t.co/tm6PJq6kmf,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… ,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… ,So good I had to share Check out all the items Im loving on  poshmark fashion style shopmycloset… ,"['So', 'good', 'I', 'share', 'Check', 'items', 'Im', 'loving', 'poshmark', 'fashion', 'style', 'shopmycloset…']"
+227,RT @euphoricdanny: louis tomlinson in his green adidas hoodie; a THREAD https://t.co/H0Hzupiz3l,RT  louis tomlinson in his green adidas hoodie; a THREAD https://t.co/H0Hzupiz3l,RT  louis tomlinson in his green adidas hoodie; a THREAD ,  louis tomlinson in his green adidas hoodie; a HEAD ,  louis tomlinson in his green adidas hoodie a HEAD ,"['louis', 'tomlinson', 'green', 'adidas', 'hoodie', 'HEAD']"
+228,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+229,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+230,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+231,So good I had to share! Check out all the items I'm loving on @Poshmarkapp #poshmark #fashion #style #shopmycloset… https://t.co/0cWpd5Ras2,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… https://t.co/0cWpd5Ras2,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… ,So good I had to share! Check out all the items I'm loving on  #poshmark #fashion #style #shopmycloset… ,So good I had to share Check out all the items Im loving on  poshmark fashion style shopmycloset… ,"['So', 'good', 'I', 'share', 'Check', 'items', 'Im', 'loving', 'poshmark', 'fashion', 'style', 'shopmycloset…']"
+232,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+233,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+234,"adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/emJ5PhqKnl https://t.co/uy1aa2SMye","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/emJ5PhqKnl https://t.co/uy1aa2SMye","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+ ","adidas Yeezy Quantum “Barium”
+Style Code: H
+
+elease Date: June rd, 
+Price: $
+ ","adidas Yeezy Quantum “Barium”
+Style Code H
+
+elease Date June rd 
+Price 
+ ","['adidas', 'Yeezy', 'Quantum', '“Barium”', 'Style', 'Code', 'H', 'elease', 'Date', 'June', 'rd', 'Price']"
+235,"On-Foot Look At The Upcoming adidas Yeezy Quantum “Barium”
+
+            On-Foot Look A... https://t.co/eq0VffO2xm","On-Foot Look At The Upcoming adidas Yeezy Quantum “Barium”
+
+            On-Foot Look A... https://t.co/eq0VffO2xm","On-Foot Look At The Upcoming adidas Yeezy Quantum “Barium”
+
+            On-Foot Look A... ","On-Foot Look At he Upcoming adidas Yeezy Quantum “Barium”
+
+            On-Foot Look A... ","OnFoot Look At he Upcoming adidas Yeezy Quantum “Barium”
+
+            OnFoot Look A ","['OnFoot', 'Look', 'At', 'Upcoming', 'adidas', 'Yeezy', 'Quantum', '“Barium”', 'OnFoot', 'Look', 'A']"
+236,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+237,RT @onehoed: If adidas sponsor @OfficialMonstaX and Nike sponsor @official__wonho it will be very funny,RT  If adidas sponsor  and Nike sponsor  it will be very funny,RT  If adidas sponsor  and Nike sponsor  it will be very funny,  If adidas sponsor  and Nike sponsor  it will be very funny,  If adidas sponsor  and Nike sponsor  it will be very funny,"['If', 'adidas', 'sponsor', 'Nike', 'sponsor', 'funny']"
+238,"adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/B4HzaCzbUj https://t.co/vfbk2GsgKx","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/B4HzaCzbUj https://t.co/vfbk2GsgKx","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+ ","adidas Yeezy Quantum “Barium”
+Style Code: H
+
+elease Date: June rd, 
+Price: $
+ ","adidas Yeezy Quantum “Barium”
+Style Code H
+
+elease Date June rd 
+Price 
+ ","['adidas', 'Yeezy', 'Quantum', '“Barium”', 'Style', 'Code', 'H', 'elease', 'Date', 'June', 'rd', 'Price']"
+239,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+240,RT @malayramen: wonho’s wearing adidas too. you know what i mean😏😏😏 https://t.co/4BNVoMnilc,RT  wonho’s wearing adidas too. you know what i mean😏😏😏 https://t.co/4BNVoMnilc,RT  wonho’s wearing adidas too. you know what i mean😏😏😏 ,  wonho’s wearing adidas too. you know what i mean😏😏😏 ,  wonho’s wearing adidas too you know what i mean😏😏😏 ,"['wonho’s', 'wearing', 'adidas', 'know', 'mean😏😏😏']"
+241,"adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/Uy9oLHZqCL https://t.co/UX8y6rfwiI","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+https://t.co/Uy9oLHZqCL https://t.co/UX8y6rfwiI","adidas Yeezy Quantum “Barium”
+Style Code: H68771
+
+Release Date: June 13rd, 2020
+Price: $250
+ ","adidas Yeezy Quantum “Barium”
+Style Code: H
+
+elease Date: June rd, 
+Price: $
+ ","adidas Yeezy Quantum “Barium”
+Style Code H
+
+elease Date June rd 
+Price 
+ ","['adidas', 'Yeezy', 'Quantum', '“Barium”', 'Style', 'Code', 'H', 'elease', 'Date', 'June', 'rd', 'Price']"
+242,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+243,"RT @natalie209209: The adidas Yeezy Boost 700 MNVN “Triple Black” is getting a wider release this Saturday
+https://t.co/7OWdZY93fX https://…","RT  The adidas Yeezy Boost 700 MNVN “Triple Black” is getting a wider release this Saturday
+https://t.co/7OWdZY93fX https://…","RT  The adidas Yeezy Boost 700 MNVN “Triple Black” is getting a wider release this Saturday
+ ","  he adidas Yeezy Boost  MNVN “riple Black” is getting a wider release this Saturday
+ ","  he adidas Yeezy Boost  MNVN “riple Black” is getting a wider release this Saturday
+ ","['adidas', 'Yeezy', 'Boost', 'MNVN', '“riple', 'Black”', 'getting', 'wider', 'release', 'Saturday']"
+244,RT @spinsewz: the adidas version ♥‿♥ https://t.co/aScUuoj0HX,RT  the adidas version ♥‿♥ https://t.co/aScUuoj0HX,RT  the adidas version ♥‿♥ ,  the adidas version ♥‿♥ ,  the adidas version ♥‿♥ ,"['adidas', 'version', '♥‿♥']"
+245,Adidas shoes commemorating Canadian runner sell out fast https://t.co/qP2v86uCsJ https://t.co/QCPXnQ6CGH,Adidas shoes commemorating Canadian runner sell out fast https://t.co/qP2v86uCsJ https://t.co/QCPXnQ6CGH,Adidas shoes commemorating Canadian runner sell out fast  ,Adidas shoes commemorating Canadian runner sell out fast  ,Adidas shoes commemorating Canadian runner sell out fast  ,"['Adidas', 'shoes', 'commemorating', 'Canadian', 'runner', 'sell', 'fast']"
+246,"RT @GetEshoes: Adidas Popular slides 
+N17,000
+40-45
+Nationwide delivery 
+
+Shop now! https://t.co/sLmow9qewD https://t.co/6apA6jBzzu","RT  Adidas Popular slides 
+N17,000
+40-45
+Nationwide delivery 
+
+Shop now! https://t.co/sLmow9qewD https://t.co/6apA6jBzzu","RT  Adidas Popular slides 
+N17,000
+40-45
+Nationwide delivery 
+
+Shop now!  ","  Adidas Popular slides 
+N,
+-
+Nationwide delivery 
+
+Shop now!  ","  Adidas Popular slides 
+N
+
+Nationwide delivery 
+
+Shop now  ","['Adidas', 'Popular', 'slides', 'N', 'Nationwide', 'delivery', 'Shop']"
+247,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+248,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+249,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+250,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+251,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+252,"3yo girl missing from a Panmure address. 
+ 
+Leiyah is wearing a grey, long-sleeved shirt, denim overalls and white… https://t.co/aFXft2xbqr","3yo girl missing from a Panmure address. 
+ 
+Leiyah is wearing a grey, long-sleeved shirt, denim overalls and white… https://t.co/aFXft2xbqr","3yo girl missing from a Panmure address. 
+ 
+Leiyah is wearing a grey, long-sleeved shirt, denim overalls and white… ","yo girl missing from a Panmure address. 
+ 
+Leiyah is wearing a grey, long-sleeved shirt, denim overalls and white… ","yo girl missing from a Panmure address 
+ 
+Leiyah is wearing a grey longsleeved shirt denim overalls and white… ","['yo', 'girl', 'missing', 'Panmure', 'address', 'Leiyah', 'wearing', 'grey', 'longsleeved', 'shirt', 'denim', 'overalls', 'white…']"
+253,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+254,TEKNO is really fond of Adidas canvas,TEKNO is really fond of Adidas canvas,TEKNO is really fond of Adidas canvas,EKNO is really fond of Adidas canvas,EKNO is really fond of Adidas canvas,"['EKNO', 'really', 'fond', 'Adidas', 'canvas']"
+255,"Adidas Popular slides 
+N17,000
+40-45
+Nationwide delivery 
+
+Shop now! https://t.co/sLmow9qewD https://t.co/6apA6jBzzu","Adidas Popular slides 
+N17,000
+40-45
+Nationwide delivery 
+
+Shop now! https://t.co/sLmow9qewD https://t.co/6apA6jBzzu","Adidas Popular slides 
+N17,000
+40-45
+Nationwide delivery 
+
+Shop now!  ","Adidas Popular slides 
+N,
+-
+Nationwide delivery 
+
+Shop now!  ","Adidas Popular slides 
+N
+
+Nationwide delivery 
+
+Shop now  ","['Adidas', 'Popular', 'slides', 'N', 'Nationwide', 'delivery', 'Shop']"
+256,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+257,"RT @Stuart_PhotoAFC: Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","RT  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","RT  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…",  Can’t believe I’ve never posted this picture four of my favourite Arsenal players in one of my favourite kits What a…,"['Can’t', 'believe', 'I’ve', 'never', 'posted', 'picture', 'four', 'favourite', 'Arsenal', 'players', 'one', 'favourite', 'kits', 'What', 'a…']"
+258,3STRIPES Members Exclusive. Buy 1 Get 1 Free. 22-26 May Only. Head to your nearest adidas store now.,3STRIPES Members Exclusive. Buy 1 Get 1 Free. 22-26 May Only. Head to your nearest adidas store now.,3STRIPES Members Exclusive. Buy 1 Get 1 Free. 22-26 May Only. Head to your nearest adidas store now.,SIPES Members Exclusive. Buy  Get  Free. - May Only. Head to your nearest adidas store now.,SIPES Members Exclusive Buy  Get  Free  May Only Head to your nearest adidas store now,"['SIPES', 'Members', 'Exclusive', 'Buy', 'Get', 'Free', 'May', 'Only', 'Head', 'nearest', 'adidas', 'store']"
+259,"RT @mortimer_ben: .@Wolves x @adidas | Blue Kit Concept
+
+❤️&amp;🔁
+
+#wolves #wwfc #adidas https://t.co/ffHJTPSsyR","RT  . x  | Blue Kit Concept
+
+❤️&amp;🔁
+
+#wolves #wwfc #adidas https://t.co/ffHJTPSsyR","RT  . x  | Blue Kit Concept
+
+❤️&amp;🔁
+
+#wolves #wwfc #adidas ","  . x  | Blue Kit Concept
+
+❤️&amp;🔁
+
+#wolves #wwfc #adidas ","   x   Blue Kit Concept
+
+❤️amp🔁
+
+wolves wwfc adidas ","['x', 'Blue', 'Kit', 'Concept', '❤️amp🔁', 'wolves', 'wwfc', 'adidas']"
+260,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+261,"RT @GetEshoes: Adidas tennis superstar 
+N22,500
+40-45
+Nationwide Delivery 
+
+Shop now! https://t.co/sLmow9qewD https://t.co/ShqXyXgwu7","RT  Adidas tennis superstar 
+N22,500
+40-45
+Nationwide Delivery 
+
+Shop now! https://t.co/sLmow9qewD https://t.co/ShqXyXgwu7","RT  Adidas tennis superstar 
+N22,500
+40-45
+Nationwide Delivery 
+
+Shop now!  ","  Adidas tennis superstar 
+N,
+-
+Nationwide Delivery 
+
+Shop now!  ","  Adidas tennis superstar 
+N
+
+Nationwide Delivery 
+
+Shop now  ","['Adidas', 'tennis', 'superstar', 'N', 'Nationwide', 'Delivery', 'Shop']"
+262,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+263,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+264,"RT @urbanstyleghana: The Adidas 4D run 1.0 - Signal Coral is now available online at urbanstyle 
+
+Dm📲 to shop now https://t.co/bUbaFIVC6l","RT  The Adidas 4D run 1.0 - Signal Coral is now available online at urbanstyle 
+
+Dm📲 to shop now https://t.co/bUbaFIVC6l","RT  The Adidas 4D run 1.0 - Signal Coral is now available online at urbanstyle 
+
+Dm📲 to shop now ","  he Adidas D run . - Signal Coral is now available online at urbanstyle 
+
+Dm📲 to shop now ","  he Adidas D run   Signal Coral is now available online at urbanstyle 
+
+Dm📲 to shop now ","['Adidas', 'D', 'run', 'Signal', 'Coral', 'available', 'online', 'urbanstyle', 'Dm📲', 'shop']"
+265,"RT @chicletsclips: CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES 
+
+Want to win an Adidas jersey from which ever team you want It’s simple follow the steps below and you’re ent…","['CONES', 'Want', 'win', 'Adidas', 'jersey', 'ever', 'team', 'want', 'It’s', 'simple', 'follow', 'steps', 'you’re', 'ent…']"
+266,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+267,If celtic get this template with green and white hoops and white/silver 3 stripes and Adidas logo that'd be unreal 😍 https://t.co/r5iypDcTuJ,If celtic get this template with green and white hoops and white/silver 3 stripes and Adidas logo that'd be unreal 😍 https://t.co/r5iypDcTuJ,If celtic get this template with green and white hoops and white/silver 3 stripes and Adidas logo that'd be unreal 😍 ,If celtic get this template with green and white hoops and white/silver  stripes and Adidas logo that'd be unreal 😍 ,If celtic get this template with green and white hoops and whitesilver  stripes and Adidas logo thatd be unreal 😍 ,"['If', 'celtic', 'get', 'template', 'green', 'white', 'hoops', 'whitesilver', 'stripes', 'Adidas', 'logo', 'thatd', 'unreal', '😍']"
+268,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+269,@KJOx @mortimer_ben @Wolves @adidas Smart as tuck that man!,    Smart as tuck that man!,    Smart as tuck that man!,    Smart as tuck that man!,    Smart as tuck that man,"['Smart', 'tuck', 'man']"
+270,@randomranger Adidas next season for us, Adidas next season for us, Adidas next season for us, Adidas next season for us, Adidas next season for us,"['Adidas', 'next', 'season', 'us']"
+271,@JDSports hi I recently ordered a pair of Adidas trainers paying for the next day delivery which took two days. On… https://t.co/A3TXHJjVoM, hi I recently ordered a pair of Adidas trainers paying for the next day delivery which took two days. On… https://t.co/A3TXHJjVoM, hi I recently ordered a pair of Adidas trainers paying for the next day delivery which took two days. On… , hi I recently ordered a pair of Adidas trainers paying for the next day delivery which took two days. On… , hi I recently ordered a pair of Adidas trainers paying for the next day delivery which took two days On… ,"['hi', 'I', 'recently', 'ordered', 'pair', 'Adidas', 'trainers', 'paying', 'next', 'day', 'delivery', 'took', 'two', 'days', 'On…']"
+272,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+273,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+274,"that mj shirt (2), the balenciaga hoodie, those flared adidas pants","that mj shirt (2), the balenciaga hoodie, those flared adidas pants","that mj shirt (2), the balenciaga hoodie, those flared adidas pants","that mj shirt (), the balenciaga hoodie, those flared adidas pants",that mj shirt  the balenciaga hoodie those flared adidas pants,"['mj', 'shirt', 'balenciaga', 'hoodie', 'flared', 'adidas', 'pants']"
+275,"INIKI 🤍🤍🤍🤍
+
+Adidas for the win https://t.co/T0RE1UdHJ6","INIKI 🤍🤍🤍🤍
+
+Adidas for the win https://t.co/T0RE1UdHJ6","INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","INIKI 🤍🤍🤍🤍
+
+Adidas for the win ","['INIKI', '\U0001f90d\U0001f90d\U0001f90d\U0001f90d', 'Adidas', 'win']"
+276,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+277,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+278,Three BIG learnings from this. 1) beg Adidas to make our kits forever. 2) beg Guinness to sponsor the club. 3) a li… https://t.co/UiHJQ6GZiE,Three BIG learnings from this. 1) beg Adidas to make our kits forever. 2) beg Guinness to sponsor the club. 3) a li… https://t.co/UiHJQ6GZiE,Three BIG learnings from this. 1) beg Adidas to make our kits forever. 2) beg Guinness to sponsor the club. 3) a li… ,hree BIG learnings from this. ) beg Adidas to make our kits forever. ) beg Guinness to sponsor the club. ) a li… ,hree BIG learnings from this  beg Adidas to make our kits forever  beg Guinness to sponsor the club  a li… ,"['hree', 'BIG', 'learnings', 'beg', 'Adidas', 'make', 'kits', 'forever', 'beg', 'Guinness', 'sponsor', 'club', 'li…']"
+279,@stockx I‘m writing you regarding the the following Order no.: 11881781-11781540. I‘ve sent an Adidas Yeezy Boost 7… https://t.co/mg2EolBNlH, I‘m writing you regarding the the following Order no.: 11881781-11781540. I‘ve sent an Adidas Yeezy Boost 7… https://t.co/mg2EolBNlH, I‘m writing you regarding the the following Order no.: 11881781-11781540. I‘ve sent an Adidas Yeezy Boost 7… , I‘m writing you regarding the the following Order no.: -. I‘ve sent an Adidas Yeezy Boost … , I‘m writing you regarding the the following Order no  I‘ve sent an Adidas Yeezy Boost … ,"['I‘m', 'writing', 'regarding', 'following', 'Order', 'I‘ve', 'sent', 'Adidas', 'Yeezy', 'Boost', '…']"
+280,RT @onehoed: If adidas sponsor @OfficialMonstaX and Nike sponsor @official__wonho it will be very funny,RT  If adidas sponsor  and Nike sponsor  it will be very funny,RT  If adidas sponsor  and Nike sponsor  it will be very funny,  If adidas sponsor  and Nike sponsor  it will be very funny,  If adidas sponsor  and Nike sponsor  it will be very funny,"['If', 'adidas', 'sponsor', 'Nike', 'sponsor', 'funny']"
+281,"RT @chicletsclips: CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES 
+
+Want to win an Adidas jersey from which ever team you want It’s simple follow the steps below and you’re ent…","['CONES', 'Want', 'win', 'Adidas', 'jersey', 'ever', 'team', 'want', 'It’s', 'simple', 'follow', 'steps', 'you’re', 'ent…']"
+282,@SaizydNUFC It would be great to have Adidas back as the technical sponsor., It would be great to have Adidas back as the technical sponsor., It would be great to have Adidas back as the technical sponsor., It would be great to have Adidas back as the technical sponsor., It would be great to have Adidas back as the technical sponsor,"['It', 'would', 'great', 'Adidas', 'back', 'technical', 'sponsor']"
+283,Adidas Father day baskets https://t.co/iQCoW7GFQi,Adidas Father day baskets https://t.co/iQCoW7GFQi,Adidas Father day baskets ,Adidas Father day baskets ,Adidas Father day baskets ,"['Adidas', 'Father', 'day', 'baskets']"
+284,RT @okolizmaine: We got these authentic Nike &amp; Adidas slides for sale. Sizes 38-47. For men and women. And We can deliver anywhere within t…,RT  We got these authentic Nike &amp; Adidas slides for sale. Sizes 38-47. For men and women. And We can deliver anywhere within t…,RT  We got these authentic Nike &amp; Adidas slides for sale. Sizes 38-47. For men and women. And We can deliver anywhere within t…,  We got these authentic Nike &amp; Adidas slides for sale. Sizes -. For men and women. And We can deliver anywhere within t…,  We got these authentic Nike amp Adidas slides for sale Sizes  For men and women And We can deliver anywhere within t…,"['We', 'got', 'authentic', 'Nike', 'amp', 'Adidas', 'slides', 'sale', 'Sizes', 'For', 'men', 'women', 'And', 'We', 'deliver', 'anywhere', 'within', 't…']"
+285,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+286,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+287,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+288,RT @onehoed: If adidas sponsor @OfficialMonstaX and Nike sponsor @official__wonho it will be very funny,RT  If adidas sponsor  and Nike sponsor  it will be very funny,RT  If adidas sponsor  and Nike sponsor  it will be very funny,  If adidas sponsor  and Nike sponsor  it will be very funny,  If adidas sponsor  and Nike sponsor  it will be very funny,"['If', 'adidas', 'sponsor', 'Nike', 'sponsor', 'funny']"
+289,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+290,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+291,RT @hbever: Just completed a 6 km run! ##Adidas #FitBit #Endomondo #Nieuwkuijk 🇳🇱 https://t.co/D0l3DhdfQH,RT  Just completed a 6 km run! ##Adidas #FitBit #Endomondo #Nieuwkuijk 🇳🇱 https://t.co/D0l3DhdfQH,RT  Just completed a 6 km run! ##Adidas #FitBit #Endomondo #Nieuwkuijk 🇳🇱 ,  Just completed a  km run! ##Adidas #FitBit #Endomondo #Nieuwkuijk 🇳🇱 ,  Just completed a  km run Adidas FitBit Endomondo Nieuwkuijk 🇳🇱 ,"['Just', 'completed', 'km', 'run', 'Adidas', 'FitBit', 'Endomondo', 'Nieuwkuijk', '🇳🇱']"
+292,"Adidas tennis superstar 
+N22,500
+40-45
+Nationwide Delivery 
+
+Shop now! https://t.co/sLmow9qewD https://t.co/ShqXyXgwu7","Adidas tennis superstar 
+N22,500
+40-45
+Nationwide Delivery 
+
+Shop now! https://t.co/sLmow9qewD https://t.co/ShqXyXgwu7","Adidas tennis superstar 
+N22,500
+40-45
+Nationwide Delivery 
+
+Shop now!  ","Adidas tennis superstar 
+N,
+-
+Nationwide Delivery 
+
+Shop now!  ","Adidas tennis superstar 
+N
+
+Nationwide Delivery 
+
+Shop now  ","['Adidas', 'tennis', 'superstar', 'N', 'Nationwide', 'Delivery', 'Shop']"
+293,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+294,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+295,Adidas Watch - https://t.co/jlmbDUycQs,Adidas Watch - https://t.co/jlmbDUycQs,Adidas Watch - ,Adidas Watch - ,Adidas Watch  ,"['Adidas', 'Watch']"
+296,"RT @man_savings: Ad : More reductions ..... Bargains !  
+
+Jake boots now £45.49 (RRP £129.95) and Baara Boots now £29.74 (RRP £84.95) 
+
+Sho…","RT  Ad : More reductions ..... Bargains !  
+
+Jake boots now £45.49 (RRP £129.95) and Baara Boots now £29.74 (RRP £84.95) 
+
+Sho…","RT  Ad : More reductions ..... Bargains !  
+
+Jake boots now £45.49 (RRP £129.95) and Baara Boots now £29.74 (RRP £84.95) 
+
+Sho…","  Ad : More reductions ..... Bargains !  
+
+Jake boots now £. (P £.) and Baara Boots now £. (P £.) 
+
+Sho…","  Ad  More reductions  Bargains   
+
+Jake boots now £ P £ and Baara Boots now £ P £ 
+
+Sho…","['Ad', 'More', 'reductions', 'Bargains', 'Jake', 'boots', '£', 'P', '£', 'Baara', 'Boots', '£', 'P', '£', 'Sho…']"
+297,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+298,"eBay Memorial Day 20% Off $50+ Sale!
+
+Includes Adidas Official Store
+
+Code PICK2SAVE
+https://t.co/13Ba5LvyfS https://t.co/cx9e8Qx8I1","eBay Memorial Day 20% Off $50+ Sale!
+
+Includes Adidas Official Store
+
+Code PICK2SAVE
+https://t.co/13Ba5LvyfS https://t.co/cx9e8Qx8I1","eBay Memorial Day 20% Off $50+ Sale!
+
+Includes Adidas Official Store
+
+Code PICK2SAVE
+ ","eBay Memorial Day % Off $+ Sale!
+
+Includes Adidas Official Store
+
+Code PICKSAVE
+ ","eBay Memorial Day  Off  Sale
+
+Includes Adidas Official Store
+
+Code PICKSAVE
+ ","['eBay', 'Memorial', 'Day', 'Off', 'Sale', 'Includes', 'Adidas', 'Official', 'Store', 'Code', 'PICKSAVE']"
+299,@__izzmal Yeezy adidas je bang..yeezy nike tu confirm2 fake, Yeezy adidas je bang..yeezy nike tu confirm2 fake, Yeezy adidas je bang..yeezy nike tu confirm2 fake, Yeezy adidas je bang..yeezy nike tu confirm fake, Yeezy adidas je bangyeezy nike tu confirm fake,"['Yeezy', 'adidas', 'je', 'bangyeezy', 'nike', 'tu', 'confirm', 'fake']"
+300,"Adidas Yeezy | BOOST | 350 v2 | Yeezreel (non-Reflective) FW5191
+
+QTY:   1 
+SIZE:   UK: 4   Available to buy Messag… https://t.co/hgAd70RX8a","Adidas Yeezy | BOOST | 350 v2 | Yeezreel (non-Reflective) FW5191
+
+QTY:   1 
+SIZE:   UK: 4   Available to buy Messag… https://t.co/hgAd70RX8a","Adidas Yeezy | BOOST | 350 v2 | Yeezreel (non-Reflective) FW5191
+
+QTY:   1 
+SIZE:   UK: 4   Available to buy Messag… ","Adidas Yeezy | BOOS |  v | Yeezreel (non-eflective) FW
+
+QY:    
+SIZE:   UK:    Available to buy Messag… ","Adidas Yeezy  BOOS   v  Yeezreel noneflective FW
+
+QY    
+SIZE   UK    Available to buy Messag… ","['Adidas', 'Yeezy', 'BOOS', 'v', 'Yeezreel', 'noneflective', 'FW', 'QY', 'SIZE', 'UK', 'Available', 'buy', 'Messag…']"
+301,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+302,I'm into hot followers #Adidas,I'm into hot followers #Adidas,I'm into hot followers #Adidas,I'm into hot followers #Adidas,Im into hot followers Adidas,"['Im', 'hot', 'followers', 'Adidas']"
+303,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+304,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+305,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+306,Adidas Father Day basket https://t.co/ABVJV3EEjk,Adidas Father Day basket https://t.co/ABVJV3EEjk,Adidas Father Day basket ,Adidas Father Day basket ,Adidas Father Day basket ,"['Adidas', 'Father', 'Day', 'basket']"
+307,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+308,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+309,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+310,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+311,RT @_bestofadidas: Adidas Originals https://t.co/JxFWLHAOPH,RT  Adidas Originals https://t.co/JxFWLHAOPH,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+312,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+313,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+314,"BRING BACK ADIDAS!!!!!!! @adidasUK 
+
+#QPR https://t.co/skmmVlMjXS","BRING BACK ADIDAS!!!!!!!  
+
+#QPR https://t.co/skmmVlMjXS","BRING BACK ADIDAS!!!!!!!  
+
+#QPR ","BING BACK ADIDAS!!!!!!!  
+
+#QP ","BING BACK ADIDAS  
+
+QP ","['BING', 'BACK', 'ADIDAS', 'QP']"
+315,"RT @chicletsclips: CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES 
+
+Want to win an Adidas jersey from which ever team you want It’s simple follow the steps below and you’re ent…","['CONES', 'Want', 'win', 'Adidas', 'jersey', 'ever', 'team', 'want', 'It’s', 'simple', 'follow', 'steps', 'you’re', 'ent…']"
+316,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+317,Castore have got Adidas running scared,Castore have got Adidas running scared,Castore have got Adidas running scared,Castore have got Adidas running scared,Castore have got Adidas running scared,"['Castore', 'got', 'Adidas', 'running', 'scared']"
+318,"Grabbed these last week, with discount code plus the top cashback app they've worked out around 48 quid, huge savin… https://t.co/FWaiIhfa3c","Grabbed these last week, with discount code plus the top cashback app they've worked out around 48 quid, huge savin… https://t.co/FWaiIhfa3c","Grabbed these last week, with discount code plus the top cashback app they've worked out around 48 quid, huge savin… ","Grabbed these last week, with discount code plus the top cashback app they've worked out around  quid, huge savin… ",Grabbed these last week with discount code plus the top cashback app theyve worked out around  quid huge savin… ,"['Grabbed', 'last', 'week', 'discount', 'code', 'plus', 'top', 'cashback', 'app', 'theyve', 'worked', 'around', 'quid', 'huge', 'savin…']"
+319,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+320,RT @24NewsHD: Adidas shoes commemorating Canadian runner sell out fast https://t.co/qP2v86uCsJ https://t.co/0iGwqxYOwO,RT  Adidas shoes commemorating Canadian runner sell out fast https://t.co/qP2v86uCsJ https://t.co/0iGwqxYOwO,RT  Adidas shoes commemorating Canadian runner sell out fast  ,  Adidas shoes commemorating Canadian runner sell out fast  ,  Adidas shoes commemorating Canadian runner sell out fast  ,"['Adidas', 'shoes', 'commemorating', 'Canadian', 'runner', 'sell', 'fast']"
+321,"RT @ese_agbal1: Adidas or NY?
+
+1: 42-45, 18000
+2: 40-45, 15000
+
+🚚🇳🇬📦
+Please RT 🙏🏾 https://t.co/F7TcBEwO1z","RT  Adidas or NY?
+
+1: 42-45, 18000
+2: 40-45, 15000
+
+🚚🇳🇬📦
+Please RT 🙏🏾 https://t.co/F7TcBEwO1z","RT  Adidas or NY?
+
+1: 42-45, 18000
+2: 40-45, 15000
+
+🚚🇳🇬📦
+Please RT 🙏🏾 ","  Adidas or NY?
+
+: -, 
+: -, 
+
+🚚🇳🇬📦
+Please  🙏🏾 ","  Adidas or NY
+
+  
+  
+
+🚚🇳🇬📦
+Please  🙏🏾 ","['Adidas', 'NY', '🚚🇳🇬📦', 'Please', '🙏🏾']"
+322,The Ted Bares knocked back Adidas in favour of Castore because Castore is like us. Going places,The Ted Bares knocked back Adidas in favour of Castore because Castore is like us. Going places,The Ted Bares knocked back Adidas in favour of Castore because Castore is like us. Going places,he ed Bares knocked back Adidas in favour of Castore because Castore is like us. Going places,he ed Bares knocked back Adidas in favour of Castore because Castore is like us Going places,"['ed', 'Bares', 'knocked', 'back', 'Adidas', 'favour', 'Castore', 'Castore', 'like', 'us', 'Going', 'places']"
+323,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+324,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+325,"RT @kibe_hum: Get this quality Adidas Montreal @ 4200 and see how ladies ggonna follow you😊 check out 👉 @viatuke for more of this 
+
+You can…","RT  Get this quality Adidas Montreal @ 4200 and see how ladies ggonna follow you😊 check out 👉  for more of this 
+
+You can…","RT  Get this quality Adidas Montreal @ 4200 and see how ladies ggonna follow you😊 check out 👉  for more of this 
+
+You can…","  Get this quality Adidas Montreal @  and see how ladies ggonna follow you😊 check out 👉  for more of this 
+
+You can…","  Get this quality Adidas Montreal   and see how ladies ggonna follow you😊 check out 👉  for more of this 
+
+You can…","['Get', 'quality', 'Adidas', 'Montreal', 'see', 'ladies', 'ggonna', 'follow', 'you😊', 'check', '👉', 'You', 'can…']"
+326,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+327,@AndyOboskyz Hao tunatekanga na hizi flip flops za adidas alaf unamsurprise na boxar za MEN (you'll thank me later), Hao tunatekanga na hizi flip flops za adidas alaf unamsurprise na boxar za MEN (you'll thank me later), Hao tunatekanga na hizi flip flops za adidas alaf unamsurprise na boxar za MEN (you'll thank me later), Hao tunatekanga na hizi flip flops za adidas alaf unamsurprise na boxar za MEN (you'll thank me later), Hao tunatekanga na hizi flip flops za adidas alaf unamsurprise na boxar za MEN youll thank me later,"['Hao', 'tunatekanga', 'na', 'hizi', 'flip', 'flops', 'za', 'adidas', 'alaf', 'unamsurprise', 'na', 'boxar', 'za', 'MEN', 'youll', 'thank', 'later']"
+328,"My thoughts on @hummel1923:
+
+1. I know some of you wanted Nike/Adidas but we sit 12th in the table right now.
+2. Th… https://t.co/gkkqEbe4Gk","My thoughts on 
+
+1. I know some of you wanted Nike/Adidas but we sit 12th in the table right now.
+2. Th… https://t.co/gkkqEbe4Gk","My thoughts on 
+
+1. I know some of you wanted Nike/Adidas but we sit 12th in the table right now.
+2. Th… ","My thoughts on 
+
+. I know some of you wanted Nike/Adidas but we sit th in the table right now.
+. h… ","My thoughts on 
+
+ I know some of you wanted NikeAdidas but we sit th in the table right now
+ h… ","['My', 'thoughts', 'I', 'know', 'wanted', 'NikeAdidas', 'sit', 'th', 'table', 'right', 'h…']"
+329,Today’s work from home shirt is Turkey from #Euro96Relived made by Adidas #Rustu #Suker #Alpay 🇹🇷 https://t.co/7Kkizdv1xM,Today’s work from home shirt is Turkey from #Euro96Relived made by Adidas #Rustu #Suker #Alpay 🇹🇷 https://t.co/7Kkizdv1xM,Today’s work from home shirt is Turkey from #Euro96Relived made by Adidas #Rustu #Suker #Alpay 🇹🇷 ,oday’s work from home shirt is urkey from #Euroelived made by Adidas #ustu #Suker #Alpay 🇹🇷 ,oday’s work from home shirt is urkey from Euroelived made by Adidas ustu Suker Alpay 🇹🇷 ,"['oday’s', 'work', 'home', 'shirt', 'urkey', 'Euroelived', 'made', 'Adidas', 'ustu', 'Suker', 'Alpay', '🇹🇷']"
+330,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+331,"🏴20% SALE
+⚡SNEAKER BOT: ANB AIO
+⚡ORDER HERE:  https://t.co/B0Y1ejklVQ 
+🏴COUPON: 20OFF
+
+NSB_BOT Cybersole EveAIO Bal… https://t.co/cOEZn9mEVX","🏴20% SALE
+⚡SNEAKER BOT: ANB AIO
+⚡ORDER HERE:  https://t.co/B0Y1ejklVQ 
+🏴COUPON: 20OFF
+
+NSB_BOT Cybersole EveAIO Bal… https://t.co/cOEZn9mEVX","🏴20% SALE
+⚡SNEAKER BOT: ANB AIO
+⚡ORDER HERE:   
+🏴COUPON: 20OFF
+
+NSB_BOT Cybersole EveAIO Bal… ","🏴% SALE
+⚡SNEAKE BO: ANB AIO
+⚡ODE HEE:   
+🏴COUPON: OFF
+
+NSB_BO Cybersole EveAIO Bal… ","🏴 SALE
+⚡SNEAKE BO ANB AIO
+⚡ODE HEE   
+🏴COUPON OFF
+
+NSBBO Cybersole EveAIO Bal… ","['🏴', 'SALE', '⚡SNEAKE', 'BO', 'ANB', 'AIO', '⚡ODE', 'HEE', '🏴COUPON', 'OFF', 'NSBBO', 'Cybersole', 'EveAIO', 'Bal…']"
+332,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+333,RT @NINIFlLM: first adidas didn't include jisoo in the list on their website and now billboard didn't include her again on their ig story..…,RT  first adidas didn't include jisoo in the list on their website and now billboard didn't include her again on their ig story..…,RT  first adidas didn't include jisoo in the list on their website and now billboard didn't include her again on their ig story..…,  first adidas didn't include jisoo in the list on their website and now billboard didn't include her again on their ig story..…,  first adidas didnt include jisoo in the list on their website and now billboard didnt include her again on their ig story…,"['first', 'adidas', 'didnt', 'include', 'jisoo', 'list', 'website', 'billboard', 'didnt', 'include', 'ig', 'story…']"
+334,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+335,adidas Originals Women's Trefoil Tights https://t.co/Y2yFsIHCVH https://t.co/jdO2cwNgJ9,adidas Originals Women's Trefoil Tights https://t.co/Y2yFsIHCVH https://t.co/jdO2cwNgJ9,adidas Originals Women's Trefoil Tights  ,adidas Originals Women's refoil ights  ,adidas Originals Womens refoil ights  ,"['adidas', 'Originals', 'Womens', 'refoil', 'ights']"
+336,"RT @TheKitmanUK: The new 2020-21 #SãoPaulo away kit made by #Adidas has been revealed! 
+
+What do you think of it? 🤔⚽️👕
+
+https://t.co/LiQ2hd…","RT  The new 2020-21 #SãoPaulo away kit made by #Adidas has been revealed! 
+
+What do you think of it? 🤔⚽️👕
+
+https://t.co/LiQ2hd…","RT  The new 2020-21 #SãoPaulo away kit made by #Adidas has been revealed! 
+
+What do you think of it? 🤔⚽️👕
+
+","  he new - #SãoPaulo away kit made by #Adidas has been revealed! 
+
+What do you think of it? 🤔⚽️👕
+
+","  he new  SãoPaulo away kit made by Adidas has been revealed 
+
+What do you think of it 🤔⚽️👕
+
+","['new', 'SãoPaulo', 'away', 'kit', 'made', 'Adidas', 'revealed', 'What', 'think', '🤔⚽️👕']"
+337,RT @LarryCh49598510: NEW! SALE! Adidas Man Manchester United Third Jersey Football NR 82 ALDERSON https://t.co/7iha8NVeVR https://t.co/sW0M…,RT  NEW! SALE! Adidas Man Manchester United Third Jersey Football NR 82 ALDERSON https://t.co/7iha8NVeVR https://t.co/sW0M…,RT  NEW! SALE! Adidas Man Manchester United Third Jersey Football NR 82 ALDERSON  ,  NEW! SALE! Adidas Man Manchester United hird Jersey Football N  ALDESON  ,  NEW SALE Adidas Man Manchester United hird Jersey Football N  ALDESON  ,"['NEW', 'SALE', 'Adidas', 'Man', 'Manchester', 'United', 'hird', 'Jersey', 'Football', 'N', 'ALDESON']"
+338,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+339,"RT @SybilOhema: Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","RT  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","RT  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $, Nike tracksuits $ and Kappa tracksuits $#men…",  Winter is here gents Get your tracksuits and joggers Adidas joggers  Nike tracksuits  and Kappa tracksuits men…,"['Winter', 'gents', 'Get', 'tracksuits', 'joggers', 'Adidas', 'joggers', 'Nike', 'tracksuits', 'Kappa', 'tracksuits', 'men…']"
+340,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+341,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+342,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+343,NEW! SALE! Adidas Man Manchester United Third Jersey Football NR 82 ALDERSON https://t.co/7iha8NVeVR https://t.co/sW0MwmDWi1,NEW! SALE! Adidas Man Manchester United Third Jersey Football NR 82 ALDERSON https://t.co/7iha8NVeVR https://t.co/sW0MwmDWi1,NEW! SALE! Adidas Man Manchester United Third Jersey Football NR 82 ALDERSON  ,NEW! SALE! Adidas Man Manchester United hird Jersey Football N  ALDESON  ,NEW SALE Adidas Man Manchester United hird Jersey Football N  ALDESON  ,"['NEW', 'SALE', 'Adidas', 'Man', 'Manchester', 'United', 'hird', 'Jersey', 'Football', 'N', 'ALDESON']"
+344,Meanwhile on adidas. https://t.co/ZHBt99oFp4,Meanwhile on adidas. https://t.co/ZHBt99oFp4,Meanwhile on adidas. ,Meanwhile on adidas. ,Meanwhile on adidas ,"['Meanwhile', 'adidas']"
+345,RT @LOVlNGYOO: NOW WE ALL GOT MONSTA X WEARING ADIDAS https://t.co/m2blBbG9Zj,RT  NOW WE ALL GOT MONSTA X WEARING ADIDAS https://t.co/m2blBbG9Zj,RT  NOW WE ALL GOT MONSTA X WEARING ADIDAS ,  NOW WE ALL GO MONSA X WEAING ADIDAS ,  NOW WE ALL GO MONSA X WEAING ADIDAS ,"['NOW', 'WE', 'ALL', 'GO', 'MONSA', 'X', 'WEAING', 'ADIDAS']"
+346,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+347,"MonstaX Japan Dropping photo of them in Adidas clothes. Wonho dropping Selca in ADIDAS FUCKING CLOTHES!!!!
+*nothing… https://t.co/hRvdtV4Zsb","MonstaX Japan Dropping photo of them in Adidas clothes. Wonho dropping Selca in ADIDAS FUCKING CLOTHES!!!!
+*nothing… https://t.co/hRvdtV4Zsb","MonstaX Japan Dropping photo of them in Adidas clothes. Wonho dropping Selca in ADIDAS FUCKING CLOTHES!!!!
+*nothing… ","MonstaX Japan Dropping photo of them in Adidas clothes. Wonho dropping Selca in ADIDAS FUCKING CLOHES!!!!
+*nothing… ","MonstaX Japan Dropping photo of them in Adidas clothes Wonho dropping Selca in ADIDAS FUCKING CLOHES
+nothing… ","['MonstaX', 'Japan', 'Dropping', 'photo', 'Adidas', 'clothes', 'Wonho', 'dropping', 'Selca', 'ADIDAS', 'FUCKING', 'CLOHES', 'nothing…']"
+348,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+349,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+350,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+351,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+352,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+353,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+354,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+355,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+356,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+357,"RT @chicletsclips: CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES 
+
+Want to win an Adidas jersey from which ever team you want It’s simple follow the steps below and you’re ent…","['CONES', 'Want', 'win', 'Adidas', 'jersey', 'ever', 'team', 'want', 'It’s', 'simple', 'follow', 'steps', 'you’re', 'ent…']"
+358,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+359,#Adidas #Yeezy: Adidas Yeezy Boost 350 V2 - Yeezreel Non Reflective Kanye West FW5191 Size 9.5… https://t.co/Tg32qmvTCi,#Adidas #Yeezy: Adidas Yeezy Boost 350 V2 - Yeezreel Non Reflective Kanye West FW5191 Size 9.5… https://t.co/Tg32qmvTCi,#Adidas #Yeezy: Adidas Yeezy Boost 350 V2 - Yeezreel Non Reflective Kanye West FW5191 Size 9.5… ,#Adidas #Yeezy: Adidas Yeezy Boost  V - Yeezreel Non eflective Kanye West FW Size .… ,Adidas Yeezy Adidas Yeezy Boost  V  Yeezreel Non eflective Kanye West FW Size … ,"['Adidas', 'Yeezy', 'Adidas', 'Yeezy', 'Boost', 'V', 'Yeezreel', 'Non', 'eflective', 'Kanye', 'West', 'FW', 'Size', '…']"
+360,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+361,"RT @bajabiri: Pure cotton Adidas.
+#Ubaoni 10,000/- pair.
+#FreeDelivery from @JustFittz https://t.co/8U5GakQFlD","RT  Pure cotton Adidas.
+#Ubaoni 10,000/- pair.
+#FreeDelivery from  https://t.co/8U5GakQFlD","RT  Pure cotton Adidas.
+#Ubaoni 10,000/- pair.
+#FreeDelivery from  ","  Pure cotton Adidas.
+#Ubaoni ,/- pair.
+#FreeDelivery from  ","  Pure cotton Adidas
+Ubaoni  pair
+FreeDelivery from  ","['Pure', 'cotton', 'Adidas', 'Ubaoni', 'pair', 'FreeDelivery']"
+362,RT @LOVlNGYOO: NOW WE ALL GOT MONSTA X WEARING ADIDAS https://t.co/m2blBbG9Zj,RT  NOW WE ALL GOT MONSTA X WEARING ADIDAS https://t.co/m2blBbG9Zj,RT  NOW WE ALL GOT MONSTA X WEARING ADIDAS ,  NOW WE ALL GO MONSA X WEAING ADIDAS ,  NOW WE ALL GO MONSA X WEAING ADIDAS ,"['NOW', 'WE', 'ALL', 'GO', 'MONSA', 'X', 'WEAING', 'ADIDAS']"
+363,"RT @chicletsclips: CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES 
+
+Want to win an Adidas jersey from which ever team you want It’s simple follow the steps below and you’re ent…","['CONES', 'Want', 'win', 'Adidas', 'jersey', 'ever', 'team', 'want', 'It’s', 'simple', 'follow', 'steps', 'you’re', 'ent…']"
+364,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+365,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+366,"RT @classicshirts: This Adidas Predator Touch advert is amazing!
+
+https://t.co/MBkSVBL622","RT  This Adidas Predator Touch advert is amazing!
+
+https://t.co/MBkSVBL622","RT  This Adidas Predator Touch advert is amazing!
+
+","  his Adidas Predator ouch advert is amazing!
+
+","  his Adidas Predator ouch advert is amazing
+
+","['Adidas', 'Predator', 'ouch', 'advert', 'amazing']"
+367,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+368,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+369,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+370,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+371,"RT @ese_agbal1: Adidas or NY?
+
+1: 42-45, 18000
+2: 40-45, 15000
+
+🚚🇳🇬📦
+Please RT 🙏🏾 https://t.co/F7TcBEwO1z","RT  Adidas or NY?
+
+1: 42-45, 18000
+2: 40-45, 15000
+
+🚚🇳🇬📦
+Please RT 🙏🏾 https://t.co/F7TcBEwO1z","RT  Adidas or NY?
+
+1: 42-45, 18000
+2: 40-45, 15000
+
+🚚🇳🇬📦
+Please RT 🙏🏾 ","  Adidas or NY?
+
+: -, 
+: -, 
+
+🚚🇳🇬📦
+Please  🙏🏾 ","  Adidas or NY
+
+  
+  
+
+🚚🇳🇬📦
+Please  🙏🏾 ","['Adidas', 'NY', '🚚🇳🇬📦', 'Please', '🙏🏾']"
+372,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+373,"RT @man_savings: ⚡️⚡️Adidas Giveaway ⚡️⚡️
+To celebrate hitting 200k social followers
+
+1st Prize - A pair of adidas of there choice up to £1…","RT  ⚡️⚡️Adidas Giveaway ⚡️⚡️
+To celebrate hitting 200k social followers
+
+1st Prize - A pair of adidas of there choice up to £1…","RT  ⚡️⚡️Adidas Giveaway ⚡️⚡️
+To celebrate hitting 200k social followers
+
+1st Prize - A pair of adidas of there choice up to £1…","  ⚡️⚡️Adidas Giveaway ⚡️⚡️
+o celebrate hitting k social followers
+
+st Prize - A pair of adidas of there choice up to £…","  ⚡️⚡️Adidas Giveaway ⚡️⚡️
+o celebrate hitting k social followers
+
+st Prize  A pair of adidas of there choice up to £…","['⚡️⚡️Adidas', 'Giveaway', '⚡️⚡️', 'celebrate', 'hitting', 'k', 'social', 'followers', 'st', 'Prize', 'A', 'pair', 'adidas', 'choice', '£…']"
+374,"Adidas tennis trainers 😍🔥
+
+Shop now! https://t.co/fQkDlAmJxH 
+#AllShoesOnEshoes #ShoeBuddy https://t.co/olSzJQIPAm","Adidas tennis trainers 😍🔥
+
+Shop now! https://t.co/fQkDlAmJxH 
+#AllShoesOnEshoes #ShoeBuddy https://t.co/olSzJQIPAm","Adidas tennis trainers 😍🔥
+
+Shop now!  
+#AllShoesOnEshoes #ShoeBuddy ","Adidas tennis trainers 😍🔥
+
+Shop now!  
+#AllShoesOnEshoes #ShoeBuddy ","Adidas tennis trainers 😍🔥
+
+Shop now  
+AllShoesOnEshoes ShoeBuddy ","['Adidas', 'tennis', 'trainers', '😍🔥', 'Shop', 'AllShoesOnEshoes', 'ShoeBuddy']"
+375,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+376,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+377,@210Gotkickz Those are like $220 shoes man... adidas or not thats a great deal., Those are like $220 shoes man... adidas or not thats a great deal., Those are like $220 shoes man... adidas or not thats a great deal., hose are like $ shoes man... adidas or not thats a great deal., hose are like  shoes man adidas or not thats a great deal,"['hose', 'like', 'shoes', 'man', 'adidas', 'thats', 'great', 'deal']"
+378,RT @SneakerNews: adidas 4D soles on the Ultra Boost Uncaged? 👏 https://t.co/3FMfVVAgT5 https://t.co/nUmL1JmsuA,RT  adidas 4D soles on the Ultra Boost Uncaged? 👏 https://t.co/3FMfVVAgT5 https://t.co/nUmL1JmsuA,RT  adidas 4D soles on the Ultra Boost Uncaged? 👏  ,  adidas D soles on the Ultra Boost Uncaged? 👏  ,  adidas D soles on the Ultra Boost Uncaged 👏  ,"['adidas', 'D', 'soles', 'Ultra', 'Boost', 'Uncaged', '👏']"
+379,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+380,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+381,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+382,I want her adidas shirt https://t.co/56ybjlkY33,I want her adidas shirt https://t.co/56ybjlkY33,I want her adidas shirt ,I want her adidas shirt ,I want her adidas shirt ,"['I', 'want', 'adidas', 'shirt']"
+383,RT @_bestofadidas: Adidas Originals https://t.co/JxFWLHAOPH,RT  Adidas Originals https://t.co/JxFWLHAOPH,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+384,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+385,"RT @ese_agbal1: Adidas or NY?
+
+1: 42-45, 18000
+2: 40-45, 15000
+
+🚚🇳🇬📦
+Please RT 🙏🏾 https://t.co/F7TcBEwO1z","RT  Adidas or NY?
+
+1: 42-45, 18000
+2: 40-45, 15000
+
+🚚🇳🇬📦
+Please RT 🙏🏾 https://t.co/F7TcBEwO1z","RT  Adidas or NY?
+
+1: 42-45, 18000
+2: 40-45, 15000
+
+🚚🇳🇬📦
+Please RT 🙏🏾 ","  Adidas or NY?
+
+: -, 
+: -, 
+
+🚚🇳🇬📦
+Please  🙏🏾 ","  Adidas or NY
+
+  
+  
+
+🚚🇳🇬📦
+Please  🙏🏾 ","['Adidas', 'NY', '🚚🇳🇬📦', 'Please', '🙏🏾']"
+386,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+387,"RT @SybilOhema: Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","RT  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","RT  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $13, Nike tracksuits $20 and Kappa tracksuits $30#men…","  Winter is here gents. Get your tracksuits and joggers. Adidas joggers $, Nike tracksuits $ and Kappa tracksuits $#men…",  Winter is here gents Get your tracksuits and joggers Adidas joggers  Nike tracksuits  and Kappa tracksuits men…,"['Winter', 'gents', 'Get', 'tracksuits', 'joggers', 'Adidas', 'joggers', 'Nike', 'tracksuits', 'Kappa', 'tracksuits', 'men…']"
+388,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+389,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+390,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+391,"RT @man_savings: ⚡️⚡️Adidas Giveaway ⚡️⚡️
+To celebrate hitting 200k social followers
+
+1st Prize - A pair of adidas of there choice up to £1…","RT  ⚡️⚡️Adidas Giveaway ⚡️⚡️
+To celebrate hitting 200k social followers
+
+1st Prize - A pair of adidas of there choice up to £1…","RT  ⚡️⚡️Adidas Giveaway ⚡️⚡️
+To celebrate hitting 200k social followers
+
+1st Prize - A pair of adidas of there choice up to £1…","  ⚡️⚡️Adidas Giveaway ⚡️⚡️
+o celebrate hitting k social followers
+
+st Prize - A pair of adidas of there choice up to £…","  ⚡️⚡️Adidas Giveaway ⚡️⚡️
+o celebrate hitting k social followers
+
+st Prize  A pair of adidas of there choice up to £…","['⚡️⚡️Adidas', 'Giveaway', '⚡️⚡️', 'celebrate', 'hitting', 'k', 'social', 'followers', 'st', 'Prize', 'A', 'pair', 'adidas', 'choice', '£…']"
+392,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+393,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+394,@classicshirts @hummel1923 @Everton It’s great to see Hummel in the PL full of ununique Adidas/Nike jerseys.,   It’s great to see Hummel in the PL full of ununique Adidas/Nike jerseys.,   It’s great to see Hummel in the PL full of ununique Adidas/Nike jerseys.,   It’s great to see Hummel in the PL full of ununique Adidas/Nike jerseys.,   It’s great to see Hummel in the PL full of ununique AdidasNike jerseys,"['It’s', 'great', 'see', 'Hummel', 'PL', 'full', 'ununique', 'AdidasNike', 'jerseys']"
+395,"RT @gfaivre_: Real Madrid C.F. x Adidas - 2020/21 concept kits
+
+#RealMadridCF #RealMadrid #Real #Madrid #Blancos #HalaMadrid #Merengues #Re…","RT  Real Madrid C.F. x Adidas - 2020/21 concept kits
+
+#RealMadridCF #RealMadrid #Real #Madrid #Blancos #HalaMadrid #Merengues #Re…","RT  Real Madrid C.F. x Adidas - 2020/21 concept kits
+
+#RealMadridCF #RealMadrid #Real #Madrid #Blancos #HalaMadrid #Merengues #Re…","  eal Madrid C.F. x Adidas - / concept kits
+
+#ealMadridCF #ealMadrid #eal #Madrid #Blancos #HalaMadrid #Merengues #e…","  eal Madrid CF x Adidas   concept kits
+
+ealMadridCF ealMadrid eal Madrid Blancos HalaMadrid Merengues e…","['eal', 'Madrid', 'CF', 'x', 'Adidas', 'concept', 'kits', 'ealMadridCF', 'ealMadrid', 'eal', 'Madrid', 'Blancos', 'HalaMadrid', 'Merengues', 'e…']"
+396,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+397,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+398,"RT @chicletsclips: CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","RT  CONTEST! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES! 
+
+Want to win an Adidas jersey from which ever team you want? It’s simple follow the steps below and you’re ent…","  CONES 
+
+Want to win an Adidas jersey from which ever team you want It’s simple follow the steps below and you’re ent…","['CONES', 'Want', 'win', 'Adidas', 'jersey', 'ever', 'team', 'want', 'It’s', 'simple', 'follow', 'steps', 'you’re', 'ent…']"
+399,"RT @ese_agbal1: Adidas or NY?
+
+1: 42-45, 18000
+2: 40-45, 15000
+
+🚚🇳🇬📦
+Please RT 🙏🏾 https://t.co/F7TcBEwO1z","RT  Adidas or NY?
+
+1: 42-45, 18000
+2: 40-45, 15000
+
+🚚🇳🇬📦
+Please RT 🙏🏾 https://t.co/F7TcBEwO1z","RT  Adidas or NY?
+
+1: 42-45, 18000
+2: 40-45, 15000
+
+🚚🇳🇬📦
+Please RT 🙏🏾 ","  Adidas or NY?
+
+: -, 
+: -, 
+
+🚚🇳🇬📦
+Please  🙏🏾 ","  Adidas or NY
+
+  
+  
+
+🚚🇳🇬📦
+Please  🙏🏾 ","['Adidas', 'NY', '🚚🇳🇬📦', 'Please', '🙏🏾']"
+400,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+401,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+402,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+403,@ant70v @adipw @Hoodie1973 @adidasanorak @caruadidas @adidas @AlanShepo69 @adiFamily_ @Dadidassler @man_savings… https://t.co/84fu8JCbVc,          https://t.co/84fu8JCbVc,          ,          ,          ,[]
+404,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+405,RT @okolizmaine: We got these authentic Nike &amp; Adidas slides for sale. Sizes 38-47. For men and women. And We can deliver anywhere within t…,RT  We got these authentic Nike &amp; Adidas slides for sale. Sizes 38-47. For men and women. And We can deliver anywhere within t…,RT  We got these authentic Nike &amp; Adidas slides for sale. Sizes 38-47. For men and women. And We can deliver anywhere within t…,  We got these authentic Nike &amp; Adidas slides for sale. Sizes -. For men and women. And We can deliver anywhere within t…,  We got these authentic Nike amp Adidas slides for sale Sizes  For men and women And We can deliver anywhere within t…,"['We', 'got', 'authentic', 'Nike', 'amp', 'Adidas', 'slides', 'sale', 'Sizes', 'For', 'men', 'women', 'And', 'We', 'deliver', 'anywhere', 'within', 't…']"
+406,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+407,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+408,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+409,"fuck adidas, blessings for nike","fuck adidas, blessings for nike","fuck adidas, blessings for nike","fuck adidas, blessings for nike",fuck adidas blessings for nike,"['fuck', 'adidas', 'blessings', 'nike']"
+410,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+411,"RT @Stuart_PhotoAFC: Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","RT  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","RT  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…",  Can’t believe I’ve never posted this picture four of my favourite Arsenal players in one of my favourite kits What a…,"['Can’t', 'believe', 'I’ve', 'never', 'posted', 'picture', 'four', 'favourite', 'Arsenal', 'players', 'one', 'favourite', 'kits', 'What', 'a…']"
+412,I’ve just seen the Adidas lads offering each other virtual man hugs. I’m off mate,I’ve just seen the Adidas lads offering each other virtual man hugs. I’m off mate,I’ve just seen the Adidas lads offering each other virtual man hugs. I’m off mate,I’ve just seen the Adidas lads offering each other virtual man hugs. I’m off mate,I’ve just seen the Adidas lads offering each other virtual man hugs I’m off mate,"['I’ve', 'seen', 'Adidas', 'lads', 'offering', 'virtual', 'man', 'hugs', 'I’m', 'mate']"
+413,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+414,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+415,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+416,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+417,"Adidas Yeezy 700 V3 Azael 
+DM For Prices/Sizes 
+#kik3rz https://t.co/mTifstEvPi","Adidas Yeezy 700 V3 Azael 
+DM For Prices/Sizes 
+#kik3rz https://t.co/mTifstEvPi","Adidas Yeezy 700 V3 Azael 
+DM For Prices/Sizes 
+#kik3rz ","Adidas Yeezy  V Azael 
+DM For Prices/Sizes 
+#kikrz ","Adidas Yeezy  V Azael 
+DM For PricesSizes 
+kikrz ","['Adidas', 'Yeezy', 'V', 'Azael', 'DM', 'For', 'PricesSizes', 'kikrz']"
+418,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+419,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+420,RT @DesignScotter: DUNDALK x ADIDAS concept Home and Away jersey design . Let me know what you think ? Tag your friends to see if they woul…,RT  DUNDALK x ADIDAS concept Home and Away jersey design . Let me know what you think ? Tag your friends to see if they woul…,RT  DUNDALK x ADIDAS concept Home and Away jersey design . Let me know what you think ? Tag your friends to see if they woul…,  DUNDALK x ADIDAS concept Home and Away jersey design . Let me know what you think ? ag your friends to see if they woul…,  DUNDALK x ADIDAS concept Home and Away jersey design  Let me know what you think  ag your friends to see if they woul…,"['DUNDALK', 'x', 'ADIDAS', 'concept', 'Home', 'Away', 'jersey', 'design', 'Let', 'know', 'think', 'ag', 'friends', 'see', 'woul…']"
+421,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+422,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+423,@vsabertoothv I managed to get hold of a Pharrel Williams hoodie and pair of Adidas. They’re super neat aha, I managed to get hold of a Pharrel Williams hoodie and pair of Adidas. They’re super neat aha, I managed to get hold of a Pharrel Williams hoodie and pair of Adidas. They’re super neat aha, I managed to get hold of a Pharrel Williams hoodie and pair of Adidas. hey’re super neat aha, I managed to get hold of a Pharrel Williams hoodie and pair of Adidas hey’re super neat aha,"['I', 'managed', 'get', 'hold', 'Pharrel', 'Williams', 'hoodie', 'pair', 'Adidas', 'hey’re', 'super', 'neat', 'aha']"
+424,"RT @TheKitmanUK: The new 2020-21 #SãoPaulo away kit made by #Adidas has been revealed! 
+
+What do you think of it? 🤔⚽️👕
+
+https://t.co/LiQ2hd…","RT  The new 2020-21 #SãoPaulo away kit made by #Adidas has been revealed! 
+
+What do you think of it? 🤔⚽️👕
+
+https://t.co/LiQ2hd…","RT  The new 2020-21 #SãoPaulo away kit made by #Adidas has been revealed! 
+
+What do you think of it? 🤔⚽️👕
+
+","  he new - #SãoPaulo away kit made by #Adidas has been revealed! 
+
+What do you think of it? 🤔⚽️👕
+
+","  he new  SãoPaulo away kit made by Adidas has been revealed 
+
+What do you think of it 🤔⚽️👕
+
+","['new', 'SãoPaulo', 'away', 'kit', 'made', 'Adidas', 'revealed', 'What', 'think', '🤔⚽️👕']"
+425,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+426,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+427,"Wonho bby pls, we've been tryna get you a Nike brand deal for days and you show up with an Adidas jacket slkskskdkd… https://t.co/5N7BXqnnrX","Wonho bby pls, we've been tryna get you a Nike brand deal for days and you show up with an Adidas jacket slkskskdkd… https://t.co/5N7BXqnnrX","Wonho bby pls, we've been tryna get you a Nike brand deal for days and you show up with an Adidas jacket slkskskdkd… ","Wonho bby pls, we've been tryna get you a Nike brand deal for days and you show up with an Adidas jacket slkskskdkd… ",Wonho bby pls weve been tryna get you a Nike brand deal for days and you show up with an Adidas jacket slkskskdkd… ,"['Wonho', 'bby', 'pls', 'weve', 'tryna', 'get', 'Nike', 'brand', 'deal', 'days', 'show', 'Adidas', 'jacket', 'slkskskdkd…']"
+428,"On Thursday, we wear yeezy! @adidas @theyeezymafia @kanyewest @DowlingStedow #boost350 https://t.co/C13ZriqhZF","On Thursday, we wear yeezy!     #boost350 https://t.co/C13ZriqhZF","On Thursday, we wear yeezy!     #boost350 ","On hursday, we wear yeezy!     #boost ",On hursday we wear yeezy     boost ,"['On', 'hursday', 'wear', 'yeezy', 'boost']"
+429,RT @mohaesus: the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” https://t.co/pMakSZ4qo9,RT  the said “adidas nation rise” ,  the said “adidas nation rise” ,  the said “adidas nation rise” ,"['said', '“adidas', 'nation', 'rise”']"
+430,"RT @Stuart_PhotoAFC: Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","RT  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","RT  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…",  Can’t believe I’ve never posted this picture four of my favourite Arsenal players in one of my favourite kits What a…,"['Can’t', 'believe', 'I’ve', 'never', 'posted', 'picture', 'four', 'favourite', 'Arsenal', 'players', 'one', 'favourite', 'kits', 'What', 'a…']"
+431,@14Maman @adipw @Hoodie1973 @adidasanorak @caruadidas @adidas @AlanShepo69 @adiFamily_ @Dadidassler @man_savings… https://t.co/qLcGPyvBzz,          https://t.co/qLcGPyvBzz,          ,          ,          ,[]
+432,@taiyonglee adidas lopers hecan ya, adidas lopers hecan ya, adidas lopers hecan ya, adidas lopers hecan ya, adidas lopers hecan ya,"['adidas', 'lopers', 'hecan', 'ya']"
+433,RT @malayramen: wonho’s wearing adidas too. you know what i mean😏😏😏 https://t.co/4BNVoMnilc,RT  wonho’s wearing adidas too. you know what i mean😏😏😏 https://t.co/4BNVoMnilc,RT  wonho’s wearing adidas too. you know what i mean😏😏😏 ,  wonho’s wearing adidas too. you know what i mean😏😏😏 ,  wonho’s wearing adidas too you know what i mean😏😏😏 ,"['wonho’s', 'wearing', 'adidas', 'know', 'mean😏😏😏']"
+434,"RT @Stuart_PhotoAFC: Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","RT  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","RT  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…","  Can’t believe I’ve never posted this picture, four of my favourite Arsenal players in one of my favourite kits. What a…",  Can’t believe I’ve never posted this picture four of my favourite Arsenal players in one of my favourite kits What a…,"['Can’t', 'believe', 'I’ve', 'never', 'posted', 'picture', 'four', 'favourite', 'Arsenal', 'players', 'one', 'favourite', 'kits', 'What', 'a…']"
+435,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+436,RT @FootballFactly: Remember this Adidas advert “Jose +10” from 2006?  https://t.co/EST8aI5Nyh,RT  Remember this Adidas advert “Jose +10” from 2006?  https://t.co/EST8aI5Nyh,RT  Remember this Adidas advert “Jose +10” from 2006?  ,  emember this Adidas advert “Jose +” from ?  ,  emember this Adidas advert “Jose ” from   ,"['emember', 'Adidas', 'advert', '“Jose', '”']"
+437,"RT @kibe_hum: Get this quality Adidas Montreal @ 4200 and see how ladies ggonna follow you😊 check out 👉 @viatuke for more of this 
+
+You can…","RT  Get this quality Adidas Montreal @ 4200 and see how ladies ggonna follow you😊 check out 👉  for more of this 
+
+You can…","RT  Get this quality Adidas Montreal @ 4200 and see how ladies ggonna follow you😊 check out 👉  for more of this 
+
+You can…","  Get this quality Adidas Montreal @  and see how ladies ggonna follow you😊 check out 👉  for more of this 
+
+You can…","  Get this quality Adidas Montreal   and see how ladies ggonna follow you😊 check out 👉  for more of this 
+
+You can…","['Get', 'quality', 'Adidas', 'Montreal', 'see', 'ladies', 'ggonna', 'follow', 'you😊', 'check', '👉', 'You', 'can…']"
+438,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+439,"The new 2020-21 #SãoPaulo away kit made by #Adidas has been revealed! 
+
+What do you think of it? 🤔⚽️👕… https://t.co/sX3vNbiqCR","The new 2020-21 #SãoPaulo away kit made by #Adidas has been revealed! 
+
+What do you think of it? 🤔⚽️👕… https://t.co/sX3vNbiqCR","The new 2020-21 #SãoPaulo away kit made by #Adidas has been revealed! 
+
+What do you think of it? 🤔⚽️👕… ","he new - #SãoPaulo away kit made by #Adidas has been revealed! 
+
+What do you think of it? 🤔⚽️👕… ","he new  SãoPaulo away kit made by Adidas has been revealed 
+
+What do you think of it 🤔⚽️👕… ","['new', 'SãoPaulo', 'away', 'kit', 'made', 'Adidas', 'revealed', 'What', 'think', '🤔⚽️👕…']"
+440,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+441,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+442,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+443,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
+444,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+445,RT @_bestofadidas: Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals https://t.co/SyzLyaKf59,RT  Adidas Originals ,  Adidas Originals ,  Adidas Originals ,"['Adidas', 'Originals']"
+446,RT @FootballFactly: Remember this Adidas advert “Jose +10” from 2006?  https://t.co/EST8aI5Nyh,RT  Remember this Adidas advert “Jose +10” from 2006?  https://t.co/EST8aI5Nyh,RT  Remember this Adidas advert “Jose +10” from 2006?  ,  emember this Adidas advert “Jose +” from ?  ,  emember this Adidas advert “Jose ” from   ,"['emember', 'Adidas', 'advert', '“Jose', '”']"
+447,"RT @man_savings: Ad : More reductions ..... Bargains !  
+
+Jake boots now £45.49 (RRP £129.95) and Baara Boots now £29.74 (RRP £84.95) 
+
+Sho…","RT  Ad : More reductions ..... Bargains !  
+
+Jake boots now £45.49 (RRP £129.95) and Baara Boots now £29.74 (RRP £84.95) 
+
+Sho…","RT  Ad : More reductions ..... Bargains !  
+
+Jake boots now £45.49 (RRP £129.95) and Baara Boots now £29.74 (RRP £84.95) 
+
+Sho…","  Ad : More reductions ..... Bargains !  
+
+Jake boots now £. (P £.) and Baara Boots now £. (P £.) 
+
+Sho…","  Ad  More reductions  Bargains   
+
+Jake boots now £ P £ and Baara Boots now £ P £ 
+
+Sho…","['Ad', 'More', 'reductions', 'Bargains', 'Jake', 'boots', '£', 'P', '£', 'Baara', 'Boots', '£', 'P', '£', 'Sho…']"
+448,"Check this out and thank me later 🔥
+
+@MinGleXMinGle – Adidas EP (Full Album) https://t.co/fVXzAZlanF","Check this out and thank me later 🔥
+
+ – Adidas EP (Full Album) https://t.co/fVXzAZlanF","Check this out and thank me later 🔥
+
+ – Adidas EP (Full Album) ","Check this out and thank me later 🔥
+
+ – Adidas EP (Full Album) ","Check this out and thank me later 🔥
+
+ – Adidas EP Full Album ","['Check', 'thank', 'later', '🔥', '–', 'Adidas', 'EP', 'Full', 'Album']"
+449,RT @ultsmx: so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas https://t.co/yhkShlkezq,RT  so like...adidas ,  so like...adidas ,  so likeadidas ,['likeadidas']
