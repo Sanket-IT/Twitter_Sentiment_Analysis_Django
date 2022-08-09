@@ -1,0 +1,55 @@
+<html>
+{% load static %}
+	<head>
+		<style>
+			.button {
+			  background-color: #4682B4 ;
+			  border: none;
+			  color: white;
+			  text-align: center;
+			  text-decoration: none;
+			  display: inline-block;
+			  font-size: 30px;
+			  margin: 4px 2px;
+			  cursor: pointer;
+			  padding: 14px 40px;
+			}
+        	.special2{
+        	color: red;
+            font-size:25px
+        	}
+
+		</style>
+	</head>
+		<body background="{% static 'Twitter_Django/img/option.png' %}">
+			<form action="Result.html" method="post"> {% csrf_token %}
+			<div align="center">
+				<br><br><br><br>
+
+                <h1><font color="white" size="350">Topic for Analysis</font></h1>
+
+			</div>
+				<div align="center">
+
+						<!--<input type="text" size=35 name="topic" >  -->
+						<input style="height:40px;font-size:15pt" placeholder="Enter the topic" size=30 name="topic">
+						<input title="Should not exceed 500" type="number" min="1" style="height:40px;font-size:15pt" placeholder="Number of tweets" size=10 name="no">
+						<br><br>
+
+						<button class="button"type="Reset">Reset</button>
+						<button class="button"onclick="{% url 'topic' %}">Submit</button> <br>
+
+
+				</div>
+				<center class="special2">
+				{% if messages %}
+				{% for message in messages %}
+				<code>
+					{{message}}
+				</code>
+				{% endfor %}
+				{% endif %}
+				</center>
+            </form>
+		</body>
+</html>

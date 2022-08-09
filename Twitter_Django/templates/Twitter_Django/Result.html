@@ -1,0 +1,163 @@
+<html>
+{% load static %}
+	<head>
+		<style>
+* {
+            box-sizing: border-box;
+        }
+
+        /* Create three equal columns that floats next to each other */
+        .column {
+            float: left;
+            width: 24.20%;
+            padding-bottom: 30px;
+            margin-left: 5px;
+            margin-right: 5px;
+            height: 155px;
+            /* Should be removed. Only for demonstration */
+        }
+
+        /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        .emoji {
+
+            height: 120%;
+            width: 35%;
+
+        }
+
+        .count {
+
+            text-align: right;
+            margin-left: 80px;
+            font-family: monospace;
+            color: black;
+            font-size: 50px;
+        }
+        .chartcol {
+                float: left;
+                width: 33.33%;
+                padding: 5px;
+                border: 1px solid;
+            }
+        .text{
+            color: white;
+            font-size:55px ;
+            display:inline-block;
+            float: left;
+            margin-left: 15px;
+            vertical-align: middle;
+
+        }
+        .button {
+			  background-color: #4682B4 ;
+			  border: none;
+			  color: white;
+			  text-align: center;
+			  text-decoration: none;
+			  display: inline-block;
+			  font-size: 30px;
+			  margin: 4px 2px;
+			  cursor: pointer;
+			  padding: 14px 40px;
+			}
+
+		</style>
+	</head>
+
+		<!--Project name-->
+    <div style="background-color:#00ace6;color: floralwhite;height: 25%">
+        <img style="height:100%;display:inline-block;float:left;padding-right:40px" src="{% static 'Twitter_Django/img/Title.jpg' %}">
+        <h1 style="line-height: 150px;margin-left: 80px;font-family: sans-serif;font-size: 50px">Twitter Sentiment Analysis</h1>
+    </div>
+
+    <!--Topic name-->
+    <div>
+        <marquee>Capstone Project Execution by Group 10</marquee>
+        <h1 style="font-family: sans-serif;font-size:60px;margin-left: 10px; margin-top: 30px;">Welcome</h1>
+        <h1 style="font-size:50px;margin-left: 10px; margin-top: 30px">Given Topic: {{d1.topic}}</h1>
+      <!--  <h1 style="margin-left: 10px; margin-top: 30px">No of Tweets: {{d1.nom}}</h1> -->
+    </div>
+
+
+    <!--Count -->
+    <div>
+        <div class="row">
+            <div class="column" style="background-color:#00ace6;">
+                <img class="emoji" style="display:inline-block;float:left;" src="{% static 'Twitter_Django/img/2857_6612408_updates.jpg' %}">
+                <span class="text" style="margin-left:50px;">Count</span>
+                <span class="text" style="margin-left: 80px;font-size: 65px">{{d1.nom}}</span>
+            </div>
+
+            <div class="column" style="background-image: linear-gradient(to right, rgba(0,0,255,0), rgba(0,0,255,1));">
+                <img class="emoji" style="display:inline-block;float:left;" src="{% static 'Twitter_Django/img/smiling-face-with-smiling-eyes_1f60a.png' %}">
+                <span class="text">Positive</span>
+                <span class="text" style="margin-left: 80px;font-size: 65px">{{d1.pos}}</span>
+            </div>
+
+            <div class="column" style=" background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));">
+                <img class="emoji" style="display:inline-block;float:left;" src="{% static 'Twitter_Django/img/unamused-face_1f612.png' %}">
+                <span class="text">Negative</span>
+                <span class="text" style="margin-left: 80px;font-size: 65px">{{d1.neg}}</span>
+
+            </div>
+            <div class="column" style="padding-right:50px;background-image: linear-gradient(to right, rgba(0,255,0,0), rgba(0,255,0,1));">
+
+                <img class="emoji" style="display:inline-block;float: left;" src="{% static 'Twitter_Django/img/neutral-face_1f610.png' %}">
+                <span class="text">Neutral</span>
+                <span class="text" style="margin-left: 80px;font-size: 65px">{{d1.neu}}</span>
+
+            </div>
+        </div>
+        <!--Statistics-->
+        <div>
+            <h1  style="font-size:40px;margin-left: 10px; margin-top: 30px">Statistics</h1>
+
+
+            <div style="height: 80px" class="row">
+                <div style="border:0px" class="chartcol">
+                    <h2 style="text-align:center" >Bar Chart</h2>
+                </div>
+
+                <div style="border:0px" class="chartcol">
+                    <h2 style="text-align:center">Pie Chart</h2>
+
+                </div>
+                <div style="border:0px" class="chartcol">
+                    <h2 style="text-align:center">WordCloud</h2>
+                </div>
+            </div>
+
+
+            <div style="height: 80px" class="row">
+                <div class="chartcol">
+                    <img style="width: 100%;height: 350px" src="{% static 'Twitter_Django/Graph/Bargraph/' %}{{d1.topic}}.png">
+                </div>
+
+                <div class="chartcol">
+                    <img style="width: 100%;height: 350px" src="{% static 'Twitter_Django/Graph/Piechart/' %}{{d1.topic}}.png">
+
+                </div>
+                <div class="chartcol">
+                    <img style="width: 100%;height: 350px" src="{% static 'Twitter_Django/Graph/Wordcloud/' %}{{d1.topic}}.png">
+                </div>
+
+            </div>
+
+        </div>
+
+        <div>
+            <!--<h1 style="line-height:80px">Final Prediction : </h1>-->
+            <h3 style="line-height:170px;font-size:40px;margin-left:10px">Maximum people have a {{d1.maxtweet}} opinion towards {{d1.topic}}</h3>
+
+        </div>
+
+    </div>
+
+</body>
+</html>

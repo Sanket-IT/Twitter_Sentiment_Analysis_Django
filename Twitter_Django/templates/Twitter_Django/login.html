@@ -1,0 +1,79 @@
+<html>
+{% load static %}
+<head>
+	<title>Login Page</title>
+
+<style>
+.button {
+  background-color: #4682B4 ;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  margin: 4px 2px;
+  cursor: pointer;
+  padding: 14px 40px;
+}
+ .special{
+        color: Red;
+        text-align: Right;
+            font-size:25px
+
+
+        }
+
+
+</style>
+
+</head>
+
+<body background="{% static 'Twitter_Django/img/bgg.png' %}">
+	</br></br></br></br>
+	<form action="Topic.html "method="post">
+		 {% csrf_token %}
+	<!--<form name="loginForm" method="post" action="C:\Users\sai\Desktop\CPE/option.html"> -->
+		<table width="25%" height="40%" background="transparent" align="right">
+			<center class="special">
+				{% if messages %}
+				{% for message in messages %}
+				<code>
+					{{message}}
+				</code>
+				</div>
+				{% endfor %}
+				{% endif %}
+			</center>
+
+			</br>
+			<tr>
+				<td>
+                    <font size=20>
+						<font color="white"/>Username:
+                        </font>
+				</td>
+				<td><input type="text" size=35 name="userid"></td>
+			</tr>
+			</br>
+			<tr>
+				<td>
+					<font size=20>
+						<font color="white"/>Password:
+                        </font>
+				</td>
+				<td><input type="Password" size=35 name="pwd"></td>
+			</tr>
+			</br>
+			<tr>
+				<td><button class="button " type="Reset">Reset</button></td>
+					<td><button class="button " type="submit" onclick="{% url 'topic' %}" target="_blank" >Login</button></td>
+			</tr>
+			</br>
+		</table>
+
+	</form>
+
+</body>
+
+</html>
