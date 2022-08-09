@@ -8,11 +8,11 @@ from Twitter_Django.utils.Source_code import Path_file as pf
 # Step 1 to authenticate Twitter application to have twitter API
 class authenticate:
 
-    # Credentials for Twitter Application (The application created as twitter developer)
-    consumer_key = "LXxius9VCSlVwJvhmWTDJeeCB" # Consumer key
-    consumer_secret = "nf62aFl9u1SuqNpnfd2x5GAxYnmvXURicvsX2VkoQQtcGiaqRJ" # Consumer secrete
-    access_token = "1160031453578612736-0ju1UkLD1i1nhUKVbmZ73b0E3nViX5" # access token
-    access_token_secret = "thLz3nl3qxalUVikTFt7jYrP6xOx8xsKZqovd5hBxCKdO" # Access_token_secret
+    # Credentials for Twitter Application (The application created as twitter developer you will get your own cred)
+    consumer_key = "*****************************" # Consumer key
+    consumer_secret = "**********************************" # Consumer secrete
+    access_token = "*********************************************" # access token
+    access_token_secret = "***************************************" # Access_token_secret
 
 # The method authenticates the credentials of user in order to connect to Twitter
     def authenticator(self):
